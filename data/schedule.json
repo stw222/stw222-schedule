@@ -16,21 +16,24 @@
       "title": "Minecraft Monday",
       "category": "minecraft",
       "startTime": "19:00",
-      "description": "Server info:\nEvolved Survival 1.21.10 (& 1.21.11)"
+      "description": "Server info:\nEvolved Survival 1.21.10 (& 1.21.11)",
+      "image": "https://public.blenderkit.com/thumbnails/assets/af5523c90ab64ecf9d10884d2375d9c7/files/thumbnail_42cc9faa-a48b-4514-8046-dd5f5b0cde25.png.2048x2048_q85.png"
     },
     {
       "date": "2025-12-23",
       "title": "Anchorage Center",
       "category": "atc",
       "startTime": "19:00",
-      "description": "Tuesday on Anchorage Center"
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
     },
     {
       "date": "2025-12-26",
       "title": "Boxing Day Staff up",
       "category": "atc",
       "startTime": "19:00",
-      "description": "Indy Center\nhttps://flyindycenter.com/events/e81a8769-b30d-4bf9-ae93-1af7e0bfc11e  \nThere might be a chance of this stream not happening. I'm not sure whats happening the day after Christmas."
+      "description": "Indy Center\nhttps://flyindycenter.com/events/e81a8769-b30d-4bf9-ae93-1af7e0bfc11e  \nThere might be a chance of this stream not happening. I'm not sure whats happening the day after Christmas.",
+      "image": ""
     }
   ],
   "categories": {
