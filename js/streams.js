@@ -17,6 +17,7 @@ class AllStreams {
             this.setupFilters();
             this.renderStreams();
             this.startCountdownUpdates();
+            this.displayTimezone();
         } catch (error) {
             console.error('Failed to load schedule:', error);
             this.showError('Failed to load streams. Please try again later.');
@@ -44,7 +45,28 @@ class AllStreams {
     getStreamDateTime(dateStr, timeStr) {
         const [year, month, day] = dateStr.split('-').map(Number);
         const [hours, minutes] = timeStr.split(':').map(Number);
-        return new Date(year, month - 1, day, hours, minutes, 0, 0);
+        const streamerTz = this.scheduleData.timezone || 'America/New_York';
+
+        // Create a date in user's local timezone with the stream time
+        const localDate = new Date(year, month - 1, day, hours, minutes, 0);
+
+        // Format this date in the streamer's timezone to see what it looks like there
+        const formatter = new Intl.DateTimeFormat('en-US', {
+            timeZone: streamerTz,
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+        });
+        const parts = formatter.formatToParts(localDate);
+        let formattedHour = 0, formattedMinute = 0;
+        parts.forEach(part => {
+            if (part.type === 'hour') formattedHour = parseInt(part.value);
+            if (part.type === 'minute') formattedMinute = parseInt(part.value);
+        });
+
+        // Calculate the difference to adjust to the correct time
+        const diffMs = ((hours - formattedHour) * 60 + (minutes - formattedMinute)) * 60 * 1000;
+        return new Date(localDate.getTime() + diffMs);
     }
 
     getCountdown(dateStr, timeStr) {
@@ -205,7 +227,7 @@ class AllStreams {
                             <i class="mdi mdi-${icon}"></i> ${stream.category}
                         </span>
                         <h3 class="stream-card-title">${stream.title}</h3>
-                        <p class="stream-card-time">${this.formatTime(stream.startTime)}</p>
+                        <p class="stream-card-time">${this.formatTime(stream.date, stream.startTime)}</p>
                         ${countdown ? `<p class="stream-countdown" data-stream-date="${stream.date}" data-stream-time="${stream.startTime}"><i class="mdi mdi-clock-outline"></i> ${countdown}</p>` : ''}
                         <p class="stream-card-description">${this.formatDescription(stream.description)}</p>
                         ${stream.image ? `<img src="${stream.image}" alt="${stream.title}" class="stream-card-image">` : ''}
@@ -215,15 +237,42 @@ class AllStreams {
         }).join('');
     }
 
-    formatTime(timeStr) {
+    formatTime(dateStr, timeStr) {
+        const [year, month, day] = dateStr.split('-').map(Number);
         const [hours, minutes] = timeStr.split(':').map(Number);
-        const date = new Date();
-        date.setHours(hours, minutes, 0, 0);
-        return date.toLocaleTimeString('en-US', {
+        const streamerTz = this.scheduleData.timezone || 'America/New_York';
+
+        // Create a date in user's local timezone with the stream time
+        const localDate = new Date(year, month - 1, day, hours, minutes, 0);
+
+        // Format this date in the streamer's timezone to see what it looks like there
+        const formatter = new Intl.DateTimeFormat('en-US', {
+            timeZone: streamerTz,
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+        });
+        const parts = formatter.formatToParts(localDate);
+        let formattedHour = 0, formattedMinute = 0;
+        parts.forEach(part => {
+            if (part.type === 'hour') formattedHour = parseInt(part.value);
+            if (part.type === 'minute') formattedMinute = parseInt(part.value);
+        });
+
+        // Calculate the difference to adjust to the correct time
+        const diffMs = ((hours - formattedHour) * 60 + (minutes - formattedMinute)) * 60 * 1000;
+        const correctedDate = new Date(localDate.getTime() + diffMs);
+
+        return correctedDate.toLocaleTimeString('en-US', {
             hour: 'numeric',
             minute: '2-digit',
             hour12: true
         });
+    }
+
+    displayTimezone() {
+        const userTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        document.getElementById('footer-timezone').textContent = userTimezone;
     }
 
     showError(message) {

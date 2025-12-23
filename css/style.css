@@ -448,6 +448,17 @@ body {
     color: var(--text-primary);
 }
 
+.timezone-display {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+}
+
+.timezone-display span {
+    color: var(--accent-purple);
+    font-weight: 500;
+}
+
 /* Loading State */
 .loading {
     text-align: center;
