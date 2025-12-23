@@ -158,12 +158,18 @@ class StreamSchedule {
     }
 
     formatDescription(text) {
-        return text.replace(/\n/g, '<br>');
+        // Convert URLs to clickable links
+        const urlRegex = /(https?:\/\/[^\s<]+)/g;
+        let formatted = text.replace(urlRegex, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+        // Convert newlines to <br>
+        formatted = formatted.replace(/\n/g, '<br>');
+        return formatted;
     }
 
     renderStreamItem(stream) {
         const formattedTime = this.formatTime(stream.startTime);
         const { color, icon } = this.getCategoryConfig(stream.category);
+        const imageHtml = stream.image ? `<img src="${stream.image}" alt="${stream.title}" class="stream-image">` : '';
 
         return `
             <div class="stream-item" style="border-left-color: ${color}">
@@ -173,6 +179,7 @@ class StreamSchedule {
                 <div class="stream-title">${stream.title}</div>
                 <div class="stream-time">${formattedTime}</div>
                 <div class="stream-description">${this.formatDescription(stream.description)}</div>
+                ${imageHtml}
             </div>
         `;
     }

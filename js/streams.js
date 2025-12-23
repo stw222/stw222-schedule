@@ -116,7 +116,12 @@ class AllStreams {
     }
 
     formatDescription(text) {
-        return text.replace(/\n/g, '<br>');
+        // Convert URLs to clickable links
+        const urlRegex = /(https?:\/\/[^\s<]+)/g;
+        let formatted = text.replace(urlRegex, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+        // Convert newlines to <br>
+        formatted = formatted.replace(/\n/g, '<br>');
+        return formatted;
     }
 
     renderStreams() {
@@ -154,6 +159,7 @@ class AllStreams {
                         <h3 class="stream-card-title">${stream.title}</h3>
                         <p class="stream-card-time">${this.formatTime(stream.startTime)}</p>
                         <p class="stream-card-description">${this.formatDescription(stream.description)}</p>
+                        ${stream.image ? `<img src="${stream.image}" alt="${stream.title}" class="stream-card-image">` : ''}
                     </div>
                 </div>
             `;
