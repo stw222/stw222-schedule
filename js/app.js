@@ -157,6 +157,10 @@ class StreamSchedule {
         return { color, icon: catConfig.icon || 'help-circle' };
     }
 
+    formatDescription(text) {
+        return text.replace(/\n/g, '<br>');
+    }
+
     renderStreamItem(stream) {
         const formattedTime = this.formatTime(stream.startTime);
         const { color, icon } = this.getCategoryConfig(stream.category);
@@ -168,7 +172,7 @@ class StreamSchedule {
                 </span>
                 <div class="stream-title">${stream.title}</div>
                 <div class="stream-time">${formattedTime}</div>
-                <div class="stream-description">${stream.description}</div>
+                <div class="stream-description">${this.formatDescription(stream.description)}</div>
             </div>
         `;
     }

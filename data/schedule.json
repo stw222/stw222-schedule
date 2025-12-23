@@ -2,11 +2,11 @@
   "streamer": {
     "name": "stw222",
     "displayName": "stw222",
-    "description": "Welcome to my stream! Join me for gaming, coding, and good times.",
+    "description": "I'm Stephen, or `stew`, I play games. Aviation & flight sim enthusiast.",
     "socials": {
       "twitch": "https://twitch.tv/stw222",
       "youtube": "https://youtube.com/@stw222",
-      "discord": "https://discord.gg/stw222"
+      "discord": "https://discord.gg/kbRBtjSEeZ"
     }
   },
   "timezone": "America/New_York",
@@ -24,6 +24,13 @@
       "category": "atc",
       "startTime": "19:00",
       "description": "Tuesday on Anchorage Center"
+    },
+    {
+      "date": "2025-12-26",
+      "title": "Boxing Day Staff up",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Indy Center\nhttps://flyindycenter.com/events/e81a8769-b30d-4bf9-ae93-1af7e0bfc11e  || There might be a chance of this stream not happening. I'm not sure whats happening the day after Christmas."
     }
   ],
   "categories": {
@@ -38,6 +45,10 @@
     "minecraft": {
       "color": "#00b894",
       "icon": "minecraft"
+    },
+    "other": {
+      "color": "#dfeded",
+      "icon": "tooltip-question"
     }
   }
 }

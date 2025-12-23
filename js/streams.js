@@ -115,6 +115,10 @@ class AllStreams {
         return { color, icon: catConfig.icon || 'help-circle' };
     }
 
+    formatDescription(text) {
+        return text.replace(/\n/g, '<br>');
+    }
+
     renderStreams() {
         const streamsList = document.getElementById('streams-list');
         const streams = this.getFilteredStreams();
@@ -149,7 +153,7 @@ class AllStreams {
                         </span>
                         <h3 class="stream-card-title">${stream.title}</h3>
                         <p class="stream-card-time">${this.formatTime(stream.startTime)}</p>
-                        <p class="stream-card-description">${stream.description}</p>
+                        <p class="stream-card-description">${this.formatDescription(stream.description)}</p>
                     </div>
                 </div>
             `;
