@@ -1,0 +1,43 @@
+{
+  "streamer": {
+    "name": "stw222",
+    "displayName": "stw222",
+    "description": "Welcome to my stream! Join me for gaming, coding, and good times.",
+    "socials": {
+      "twitch": "https://twitch.tv/stw222",
+      "youtube": "https://youtube.com/@stw222",
+      "discord": "https://discord.gg/stw222"
+    }
+  },
+  "timezone": "America/New_York",
+  "streams": [
+    {
+      "date": "2025-12-22",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "Server info:\nEvolved Survival 1.21.10 (& 1.21.11)"
+    },
+    {
+      "date": "2025-12-23",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center"
+    }
+  ],
+  "categories": {
+    "atc": {
+      "color": "9147ff",
+      "icon": "radar"
+    },
+    "flying": {
+      "color": "#1db954",
+      "icon": "airplane"
+    },
+    "minecraft": {
+      "color": "#00b894",
+      "icon": "minecraft"
+    }
+  }
+}

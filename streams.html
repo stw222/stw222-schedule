@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Streams - STW22</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="streamer-info">
+                <h1 class="streamer-name" id="streamer-name">Loading...</h1>
+                <p class="streamer-description" id="streamer-description"></p>
+            </div>
+            <nav class="social-links" id="social-links"></nav>
+        </header>
+
+        <nav class="page-nav">
+            <a href="index.html" class="page-nav-link">Weekly Schedule</a>
+            <a href="streams.html" class="page-nav-link active">All Streams</a>
+        </nav>
+
+        <main>
+            <section class="streams-section">
+                <div class="streams-header">
+                    <h2 class="section-title">All Streams</h2>
+                    <div class="filter-controls">
+                        <select id="category-filter" class="filter-select">
+                            <option value="all">All Categories</option>
+                        </select>
+                        <select id="time-filter" class="filter-select">
+                            <option value="upcoming">Upcoming</option>
+                            <option value="past">Past</option>
+                            <option value="all">All Time</option>
+                        </select>
+                    </div>
+                </div>
+                <p class="stream-count" id="stream-count"></p>
+                <div class="streams-list" id="streams-list">
+                    <!-- Streams will be populated by JavaScript -->
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>Made with love for the community by Seb :)</p>
+        </footer>
+    </div>
+
+    <script src="js/streams.js"></script>
+</body>
+</html>
