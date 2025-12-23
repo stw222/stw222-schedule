@@ -657,6 +657,20 @@ body {
     margin-bottom: 0.5rem;
 }
 
+.stream-countdown {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    color: var(--accent-purple);
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.stream-countdown .mdi {
+    font-size: 1rem;
+}
+
 .stream-card-description {
     font-size: 0.85rem;
     color: var(--text-secondary);
@@ -920,6 +934,14 @@ body {
 
     .stream-card-description {
         font-size: 0.8rem;
+    }
+
+    .stream-countdown {
+        font-size: 0.75rem;
+    }
+
+    .stream-countdown .mdi {
+        font-size: 0.9rem;
     }
 
     .filter-controls {
