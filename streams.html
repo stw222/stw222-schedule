@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Streams - STW22</title>
+    <title>STW22 Stream Schedule</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,28 +21,34 @@
         </header>
 
         <nav class="page-nav">
-            <a href="index.html" class="page-nav-link">Weekly Schedule</a>
-            <a href="streams.html" class="page-nav-link active">All Streams</a>
+            <a href="index.html" class="page-nav-link active">Weekly Schedule</a>
+            <a href="streams.html" class="page-nav-link">All Streams</a>
         </nav>
 
         <main>
-            <section class="streams-section">
-                <div class="streams-header">
-                    <h2 class="section-title">All Streams</h2>
-                    <div class="filter-controls">
-                        <select id="category-filter" class="filter-select">
-                            <option value="all">All Categories</option>
-                        </select>
-                        <select id="time-filter" class="filter-select">
-                            <option value="upcoming">Upcoming</option>
-                            <option value="past">Past</option>
-                            <option value="all">All Time</option>
-                        </select>
+            <section class="schedule-section">
+                <div class="schedule-header">
+                    <h2 class="section-title">Stream Schedule</h2>
+                    <div class="week-navigation">
+                        <button class="nav-btn" id="prev-week" title="Previous week">
+                            <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+                                <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+                            </svg>
+                        </button>
+                        <button class="nav-btn today-btn" id="current-week">Today</button>
+                        <button class="nav-btn" id="next-week" title="Next week">
+                            <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+                                <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+                            </svg>
+                        </button>
                     </div>
                 </div>
-                <p class="stream-count" id="stream-count"></p>
-                <div class="streams-list" id="streams-list">
-                    <!-- Streams will be populated by JavaScript -->
+                <div class="schedule-info">
+                    <span class="week-range" id="week-range"></span>
+                    <span class="timezone-info">Times in <span id="timezone">your local timezone</span></span>
+                </div>
+                <div class="schedule-grid" id="schedule-grid">
+                    <!-- Schedule will be populated by JavaScript -->
                 </div>
             </section>
         </main>
@@ -52,6 +58,6 @@
         </footer>
     </div>
 
-    <script src="js/streams.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>
