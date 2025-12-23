@@ -666,9 +666,200 @@ body {
     border-left: 4px solid var(--special);
 }
 
+/* ==================== */
+/* Mobile Optimizations */
+/* ==================== */
+
+/* Tablet */
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        margin-bottom: 2rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .streamer-name {
+        font-size: 2rem;
+    }
+
+    .social-links {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+
+    .social-link {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
+    }
+
+    .page-nav {
+        width: 100%;
+    }
+
+    .page-nav-link {
+        flex: 1;
+        text-align: center;
+        padding: 0.75rem 1rem;
+    }
+
+    .schedule-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .week-navigation {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .schedule-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .streams-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .filter-controls {
+        width: 100%;
+    }
+
+    .filter-select {
+        flex: 1;
+    }
+
+    .footer {
+        margin-top: 2rem;
+    }
+}
+
+/* Mobile */
 @media (max-width: 480px) {
+    .container {
+        padding: 1rem;
+    }
+
+    .header {
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .streamer-name {
+        font-size: 1.75rem;
+    }
+
+    .streamer-description {
+        font-size: 0.95rem;
+    }
+
+    .social-links {
+        width: 100%;
+    }
+
+    .social-link {
+        flex: 1;
+        justify-content: center;
+        padding: 0.6rem;
+        font-size: 0.8rem;
+    }
+
+    /* Hide social text on very small screens */
+    .social-link span {
+        display: none;
+    }
+
+    .social-link svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .page-nav {
+        gap: 0.25rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .page-nav-link {
+        padding: 0.6rem 0.5rem;
+        font-size: 0.85rem;
+    }
+
+    .section-title {
+        font-size: 1.25rem;
+    }
+
+    .nav-btn {
+        padding: 0.6rem;
+        min-width: 44px;
+        min-height: 44px;
+    }
+
+    .today-btn {
+        padding: 0.6rem 1rem;
+    }
+
+    .week-range {
+        font-size: 1rem;
+    }
+
+    .timezone-info {
+        font-size: 0.8rem;
+    }
+
+    .schedule-grid {
+        gap: 0.75rem;
+    }
+
+    .day-card {
+        border-radius: 10px;
+    }
+
+    .day-card:hover {
+        transform: none;
+    }
+
+    .day-content {
+        padding: 0.75rem;
+        min-height: 100px;
+    }
+
+    .stream-item {
+        padding: 0.6rem;
+    }
+
+    .stream-title {
+        font-size: 0.9rem;
+    }
+
+    .stream-time {
+        font-size: 0.8rem;
+    }
+
+    .stream-description {
+        font-size: 0.75rem;
+    }
+
+    .no-stream {
+        padding: 1.5rem 0;
+        font-size: 0.85rem;
+    }
+
+    /* Stream cards on mobile */
     .stream-card {
         flex-direction: column;
+        border-radius: 10px;
+    }
+
+    .stream-card:hover {
+        transform: none;
     }
 
     .stream-card-date {
@@ -676,18 +867,78 @@ body {
         gap: 0.5rem;
         padding: 0.75rem 1rem;
         min-width: auto;
+        justify-content: flex-start;
     }
 
     .stream-date-num {
         font-size: 1.2rem;
     }
 
+    .stream-card-content {
+        padding: 0.75rem 1rem;
+    }
+
+    .stream-card-title {
+        font-size: 1rem;
+    }
+
+    .stream-card-time {
+        font-size: 0.85rem;
+    }
+
+    .stream-card-description {
+        font-size: 0.8rem;
+    }
+
     .filter-controls {
         flex-direction: column;
         width: 100%;
+        gap: 0.5rem;
     }
 
     .filter-select {
         width: 100%;
+        padding: 0.6rem 1rem;
+    }
+
+    .stream-count {
+        font-size: 0.85rem;
+        margin-bottom: 1rem;
+    }
+
+    .footer {
+        margin-top: 2rem;
+        padding-top: 1rem;
+        font-size: 0.8rem;
+    }
+
+    .category-badge {
+        font-size: 0.65rem;
+        padding: 0.15rem 0.4rem;
+    }
+
+    .category-badge .mdi {
+        font-size: 0.8rem;
+    }
+}
+
+/* Touch-friendly tap targets */
+@media (hover: none) and (pointer: coarse) {
+    .nav-btn,
+    .page-nav-link,
+    .social-link,
+    .filter-select {
+        min-height: 44px;
+    }
+
+    .day-card:hover,
+    .stream-card:hover {
+        transform: none;
+        box-shadow: none;
+    }
+
+    .day-card:active,
+    .stream-card:active {
+        opacity: 0.9;
     }
 }
