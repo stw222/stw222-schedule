@@ -6,6 +6,7 @@ class AllStreams {
             category: 'all',
             time: 'upcoming'
         };
+        this.countdownInterval = null;
         this.init();
     }
 
@@ -15,9 +16,55 @@ class AllStreams {
             this.renderStreamerInfo();
             this.setupFilters();
             this.renderStreams();
+            this.startCountdownUpdates();
         } catch (error) {
             console.error('Failed to load schedule:', error);
             this.showError('Failed to load streams. Please try again later.');
+        }
+    }
+
+    startCountdownUpdates() {
+        // Update countdowns every minute
+        this.countdownInterval = setInterval(() => {
+            this.updateCountdowns();
+        }, 60000);
+    }
+
+    updateCountdowns() {
+        const countdownElements = document.querySelectorAll('.stream-countdown[data-stream-date][data-stream-time]');
+        countdownElements.forEach(el => {
+            const date = el.dataset.streamDate;
+            const time = el.dataset.streamTime;
+            const countdown = this.getCountdown(date, time);
+            el.innerHTML = countdown ? `<i class="mdi mdi-clock-outline"></i> ${countdown}` : '';
+            el.style.display = countdown ? 'flex' : 'none';
+        });
+    }
+
+    getStreamDateTime(dateStr, timeStr) {
+        const [year, month, day] = dateStr.split('-').map(Number);
+        const [hours, minutes] = timeStr.split(':').map(Number);
+        return new Date(year, month - 1, day, hours, minutes, 0, 0);
+    }
+
+    getCountdown(dateStr, timeStr) {
+        const streamDateTime = this.getStreamDateTime(dateStr, timeStr);
+        const now = new Date();
+        const diff = streamDateTime - now;
+
+        // If stream has passed, return null
+        if (diff <= 0) return null;
+
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+
+        if (days > 0) {
+            return `${days}d ${hours}h`;
+        } else if (hours > 0) {
+            return `${hours}h ${minutes}m`;
+        } else {
+            return `${minutes}m`;
         }
     }
 
@@ -143,6 +190,7 @@ class AllStreams {
             const isToday = streamDate.getTime() === today.getTime();
             const isPast = streamDate < today;
             const { color, icon } = this.getCategoryConfig(stream.category);
+            const countdown = this.getCountdown(stream.date, stream.startTime);
 
             return `
                 <div class="stream-card ${isToday ? 'today' : ''} ${isPast ? 'past' : ''}" style="border-left: 4px solid ${color}">
@@ -158,6 +206,7 @@ class AllStreams {
                         </span>
                         <h3 class="stream-card-title">${stream.title}</h3>
                         <p class="stream-card-time">${this.formatTime(stream.startTime)}</p>
+                        ${countdown ? `<p class="stream-countdown" data-stream-date="${stream.date}" data-stream-time="${stream.startTime}"><i class="mdi mdi-clock-outline"></i> ${countdown}</p>` : ''}
                         <p class="stream-card-description">${this.formatDescription(stream.description)}</p>
                         ${stream.image ? `<img src="${stream.image}" alt="${stream.title}" class="stream-card-image">` : ''}
                     </div>
