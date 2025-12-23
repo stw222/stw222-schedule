@@ -419,6 +419,15 @@ body {
     font-size: 0.9rem;
 }
 
+.footer a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+.footer a:hover {
+    color: var(--text-primary);
+}
+
 /* Loading State */
 .loading {
     text-align: center;
