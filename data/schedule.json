@@ -55,7 +55,7 @@
       "date": "2025-12-29",
       "title": "Minecraft Monday",
       "category": "minecraft",
-      "startTime": "14:00",
+      "startTime": "19:00",
       "description": "Evolved Survival 1.21.10 (& 1.21.11)\nplay.evolvedsurvival.org\nhttps://findmcserver.com/server/evolvedsurvival",
       "image": ""
     },
@@ -98,13 +98,29 @@
       "startTime": "18:50",
       "description": "Indy Center || Exact position: TBA\nhttps://forums.vatusa.net/index.php?topic=12297.0\nhttps://flyindycenter.com/events/7e6e609f-536e-4754-9f05-b6fa810bc183\nhttps://memphisartcc.com/events/new-year-nashville-62737",
       "image": "https://i.imgur.com/8oRHxOK.jpeg"
-    }
+    },
     {
       "date": "2026-1-4",
       "title": "Lego Starwars",
       "category": "other",
       "startTime": "19:00",
       "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch",
+      "image": ""
+    },
+    {
+      "date": "2026-1-5",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "Evolved Survival 1.21.10 (& 1.21.11)\nplay.evolvedsurvival.org\nhttps://findmcserver.com/server/evolvedsurvival",
+      "image": ""
+    },
+    {
+      "date": "2026-1-6",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
       "image": ""
     }
   ],
