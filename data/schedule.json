@@ -125,10 +125,26 @@
     },
     {
       "date": "2026-1-7",
-      "title": "Indy Center",
+      "title": "Indy Center | I-64 staff-up",
       "category": "atc",
+      "startTime": "18:50",
+      "description": "https://flyindycenter.com/events/3f5a2d01-b7d8-4b5c-ad9d-3fd121b8b3d1",
+      "image": ""
+    },
+    {
+      "date": "2026-1-8",
+      "title": "Fly-In Thursday | CYYZ",
+      "category": "flying",
       "startTime": "19:00",
-      "description": "",
+      "description": "This week's TPC Fly-In Thursday is to Toronto Pearson International Airport (CYYZ)! I'll probably fly in from the states.\nroute: TBD",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/8babe7e8-9c7d-4a35-8e80-490685c78ac0/8jan2026.png"
+    },
+    {
+      "date": "2026-1-9",
+      "title": "Southwest VA",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route: KMSP > KSTL > KDTW > to maybe KMDW",
       "image": ""
     }
   ],
