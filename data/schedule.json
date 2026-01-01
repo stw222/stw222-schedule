@@ -80,7 +80,7 @@
       "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
-      "description": "The best vCenter!",
+      "description": "The best center!",
       "image": ""
     },
     {
@@ -145,6 +145,14 @@
       "category": "flying",
       "startTime": "19:00",
       "description": "Route: KMSP > KSTL > KDTW > to maybe KMDW",
+      "image": ""
+    },
+    {
+      "date": "2026-1-10",
+      "title": "UPS VA Fly-in",
+      "category": "atc",
+      "startTime": "16:30",
+      "description": "UPSVAC is flying into Louisville (KSDF) with an estimated arrival time of 2300z.",
       "image": ""
     }
   ],
