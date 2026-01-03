@@ -162,6 +162,14 @@
       "startTime": "14:00",
       "description": "Lego Starwars: the Complete edition.",
       "image": ""
+    },
+    {
+      "date": "2026-1-11",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": ""
     }
   ],
   "categories": {
