@@ -186,6 +186,14 @@
       "startTime": "19:00",
       "description": "",
       "image": ""
+    },
+    {
+      "date": "2026-1-15",
+      "title": "Flying over Toronto",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "CYUL to KDTW to ???",
+      "image": ""
     }
   ],
   "categories": {
