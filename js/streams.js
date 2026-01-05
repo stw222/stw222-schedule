@@ -103,7 +103,7 @@ class AllStreams {
 
         document.getElementById('streamer-name').textContent = streamer.displayName;
         document.getElementById('streamer-description').textContent = streamer.description;
-        document.title = `All Streams - ${streamer.displayName}`;
+        document.title = `${streamer.displayName} Stream Schedule`;
 
         const socialLinksContainer = document.getElementById('social-links');
         const socialIcons = {
