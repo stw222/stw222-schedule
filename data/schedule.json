@@ -184,7 +184,7 @@
       "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
-      "description": "",
+      "description": "Nearby event - Winter Capital Handoff: https://forums.vatusa.net/index.php?topic=12305.0",
       "image": ""
     },
     {
@@ -194,6 +194,14 @@
       "startTime": "19:00",
       "description": "CYUL to KDTW to CYYZ or CYTZ",
       "image": ""
+    },
+    {
+      "date": "2026-1-16",
+      "title": "Honoring the Dream - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Atlanta is Honoring the Dream at KATL\nhttps://flyindycenter.com/events/a8a255c7-8153-451f-84e7-474c36313af3\nhttps://forums.vatusa.net/index.php?topic=12316.0",
+      "image": "https://www.ztlartcc.org/storage/event_banners/reduced/1766152442.jpg"
     }
   ],
   "categories": {
