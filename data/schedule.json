@@ -202,6 +202,30 @@
       "startTime": "18:50",
       "description": "Atlanta is Honoring the Dream at KATL\nhttps://flyindycenter.com/events/a8a255c7-8153-451f-84e7-474c36313af3\nhttps://forums.vatusa.net/index.php?topic=12316.0",
       "image": "https://www.ztlartcc.org/storage/event_banners/reduced/1766152442.jpg"
+    },
+    {
+      "date": "2026-1-17",
+      "title": "Escape to the Desert",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KHND > KVGT > KHND https://tinyurl.com/STW-011726\nhttps://forums.vatusa.net/index.php?topic=12312.0",
+      "image": "https://i.imgur.com/FmLgnLQ.jpeg"
+    },
+    {
+      "date": "2026-1-18",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition",
+      "image": ""
+    },
+    {
+      "date": "2026-1-12",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
     }
   ],
   "categories": {
