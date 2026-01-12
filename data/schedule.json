@@ -234,6 +234,14 @@
       "startTime": "19:00",
       "description": "Tuesday on Anchorage Center",
       "image": ""
+    },
+    {
+      "date": "2026-1-21",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": ""
     }
   ],
   "categories": {
