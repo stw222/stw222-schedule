@@ -250,7 +250,15 @@
       "startTime": "19:00",
       "description": "TPC pilots are flying to Houston Hobby\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-22jan2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/4cee2da0-5da0-4b14-8dd3-d70ca4b9e8fc/22jan2026.png"
-    }
+    },
+    {
+      "date": "2026-1-23",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": ""
+    },
   ],
   "categories": {
     "atc": {
