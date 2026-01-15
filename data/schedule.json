@@ -258,6 +258,46 @@
       "startTime": "19:00",
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": ""
+    },
+    {
+      "date": "2026-1-24",
+      "title": "Fly-In and out of KPDX",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://forums.vatusa.net/index.php?topic=12320.0",
+      "image": "https://zseartcc.org/public/events/logos/361.png?v=1766271781"
+    },
+    {
+      "date": "2026-1-25",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": ""
+    },
+    {
+      "date": "2026-1-26",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-1-27",
+      "title": "TPC GA Tuesday - Texas to Louisiana",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "CXO to KBPT to KLCH\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-27jan2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png"
+    },
+    {
+      "date": "2026-1-28",
+      "title": "Mountains `til Morning - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Position: TBA\nhttps://flyindycenter.com/events/c5d695a7-d5e3-4b76-b71d-9156396c8a90\nhttps://forums.vatusa.net/index.php?topic=12311.0",
+      "image": ""
     }
   ],
   "categories": {
