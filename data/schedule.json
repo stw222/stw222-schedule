@@ -273,7 +273,7 @@
       "category": "other",
       "startTime": "14:00",
       "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
-      "image": ""
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
     },
     {
       "date": "2026-1-26",
@@ -298,6 +298,22 @@
       "startTime": "18:50",
       "description": "Position: TBA\nThere is a giveaway for 3 pilot winners from Just Flight, Check the event link for info\nhttps://forums.vatusa.net/index.php?topic=12311.0\nhttps://flyindycenter.com/events/c5d695a7-d5e3-4b76-b71d-9156396c8a90\nTPC is flying in the area: https://www.thepilotclub.org/dispatch/bush-wednesday-28jan2026",
       "image": "https://i.postimg.cc/nL57yknG/Mountains-til-Morning.png"
+    },
+    {
+      "date": "2026-1-29",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-1-30",
+      "title": "Indy Center - Northeast Corridor FNO",
+      "category": "ATC",
+      "startTime": "18:50",
+      "description": "https://forums.vatusa.net/index.php?topic=12318.0\nhttps://flyindycenter.com/events/6ccd7ae9-9fb6-47d8-a696-e7789faa9393",
+      "image": "https://atchub.bvartcc.com/eventheaders/17e48fa6e7325bdc8f3aed746140ee25.png"
     }
   ],
   "categories": {
