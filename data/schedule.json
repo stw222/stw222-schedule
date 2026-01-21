@@ -314,6 +314,22 @@
       "startTime": "18:50",
       "description": "https://forums.vatusa.net/index.php?topic=12318.0\nhttps://flyindycenter.com/events/6ccd7ae9-9fb6-47d8-a696-e7789faa9393",
       "image": "https://atchub.bvartcc.com/eventheaders/17e48fa6e7325bdc8f3aed746140ee25.png"
+    },
+    {
+      "date": "2026-1-31",
+      "title": "Anchorage Center - Vintage Cross the Inside Passage",
+      "category": "ATC",
+      "startTime": "08:00",
+      "description": "https://zanartcc.org/events/58\nhttps://docs.google.com/document/d/1VDanw9YUeMy8htpF3T8j7NK6Gt2mpJyDKq7xGrc07r8/edit?usp=sharing",
+      "image": "https://pbs.twimg.com/media/G5LnCP0XcAANyU6?format=jpg&name=large"
+    },
+    {
+      "date": "2026-2-1",
+      "title": "Lego Starwars",
+      "category": "other",
+      "startTime": "14:00",
+      "description": "Lego Starwars: the Complete edition - This time its the PC port since the Xbox version had audio issues. I at least went and beat those missions that were beat when playing the xbox version, so we're not starting from scratch.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
     }
   ],
   "categories": {
