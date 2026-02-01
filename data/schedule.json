@@ -397,11 +397,11 @@
     },
     {
       "date": "2026-2-10",
-      "title": "Anchorage Center",
-      "category": "atc",
+      "title": "GA-Tuesday KMSP Fly-in",
+      "category": "flying",
       "startTime": "19:00",
-      "description": "Tuesday on Anchorage Center",
-      "image": ""
+      "description": "https://www.thepilotclub.org/dispatch/ga-tuesday-10feb2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/89efbb0d-f0ae-4535-a157-96d1025663af/GAT2_16x9_LANDMARKS.png"
     },
     {
       "date": "2026-2-11",
@@ -410,6 +410,14 @@
       "startTime": "19:00",
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-12",
+      "title": "Fly-in Thursday to KBUF",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-12feb2026\nhttps://forums.vatusa.net/index.php?topic=12306.0",
+      "image": "https://clevelandcenter.org/files/events/33042088.png"
     }
   ],
   "categories": {
