@@ -426,6 +426,14 @@
       "startTime": "19:00",
       "description": "KDAL > KMCI > KDFW\nhttps://www.thepilotclub.org/dispatch/fno-13feb2026\nhttps://forums.vatusa.net/index.php?topic=12309.0",
       "image": "https://i.imgur.com/oSMiKbZ.png"
+    },
+    {
+      "date": "2026-2-14",
+      "title": "The day of Indy Center",
+      "category": "atc",
+      "startTime": "11:00",
+      "description": "13+ hours of indy center",
+      "image": "https://i.imgur.com/KcZGWSV.png"
     }
   ],
   "categories": {
