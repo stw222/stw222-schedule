@@ -379,7 +379,7 @@
       "description": "KSEA > KSJC > KLGB\nSlot times are required if you fly in the same event\nhttps://superbowl2026.oakartcc.org\nhttps://forums.vatusa.net/index.php?topic=12333.0",
       "image": "https://i.imgur.com/iUyAALH.png"
     },
-        {
+    {
       "date": "2026-2-8",
       "title": "Lego Starwars",
       "category": "other",
@@ -442,6 +442,22 @@
       "startTime": "19:00",
       "description": "KTPA > KATL in the MD11\nhttps://forums.vatusa.net/index.php?topic=12323.0",
       "image": "https://i.gyazo.com/75a73323401bf34eb11037827f6568b8.png"
+    },
+    {
+      "date": "2026-2-16",
+      "title": "Minecraft Monday",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
+      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+    },
+    {
+      "date": "2026-2-17",
+      "title": "TPC Explorer Missions - High Altitude",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KJAC > KEGE > KASE > KTEX > KSEZ",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/a7cb1599-65fb-4b82-843f-b33b5f1f570d/explorer_high_altitude.png"
     }
   ],
   "categories": {
