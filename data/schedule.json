@@ -445,19 +445,19 @@
     },
     {
       "date": "2026-2-16",
-      "title": "Minecraft Monday",
-      "category": "minecraft",
+      "title": "Anchorage Center - day 1",
+      "category": "atc",
       "startTime": "19:00",
-      "description": "StoneBlock4 modpack on a public server.\nIP: sb4.moddedmc.net",
-      "image": "https://cdn.feed-the-beast.com/blob/5b/5b10fbf6e78546a5a4be81a2d311718cc24d29e4277e747028d787d6fec0be46.webp"
+      "description": "Monday on Anchorage Center",
+      "image": ""
     },
     {
       "date": "2026-2-17",
-      "title": "TPC Explorer Missions - High Altitude",
-      "category": "flying",
+      "title": "Anchorage Center - day 2",
+      "category": "atc",
       "startTime": "19:00",
-      "description": "KJAC > KEGE > KASE > KTEX > KSEZ",
-      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/a7cb1599-65fb-4b82-843f-b33b5f1f570d/explorer_high_altitude.png"
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
     },
     {
       "date": "2026-2-18",
@@ -466,6 +466,14 @@
       "startTime": "19:00",
       "description": "Featuring KEVV, KOWB and maybe surrounding approach airspace",
       "image": "https://i.imgur.com/SwGSc5N.jpeg"
+    },
+    {
+      "date": "2026-2-19",
+      "title": "TPC Explorer Missions - High Altitude",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KJAC > KEGE > KASE > KTEX > KSEZ",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/a7cb1599-65fb-4b82-843f-b33b5f1f570d/explorer_high_altitude.png"
     }
   ],
   "categories": {
