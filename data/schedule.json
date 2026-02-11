@@ -482,6 +482,14 @@
       "startTime": "19:00",
       "description": "KLGA > KCLE > KJFK\nhttps://forums.vatusa.net/index.php?topic=12338.0\nhttps://www.thepilotclub.org/dispatch/fno-20feb2026",
       "image": "https://zny-uploads.s3.amazonaws.com/images-banners/Bc1OjaRf7Zqlp2zq95wfA8XSv3akbJRryqVcFeaS.png"
+    },
+    {
+      "date": "2026-2-21",
+      "title": "UPSVAC Fly-out of kSDF",
+      "category": "atc",
+      "startTime": "11:00",
+      "description": "UPSVAC is flying out of SDF starting around 1700z. We will staff the airspace starting an hour prior",
+      "image": "https://i.imgur.com/KcZGWSV.png"
     }
   ],
   "categories": {
