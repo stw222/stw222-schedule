@@ -512,8 +512,24 @@
       "title": "GA Tuesday: Red Rock",
       "category": "flying",
       "startTime": "19:00",
-      "description": "??? - KSAD - KPAN - KSEZhttps://www.thepilotclub.org/dispatch/ga-tuesday-24feb2026",
+      "description": "??? - KSAD - KPAN - KSEZ\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-24feb2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png"
+    },
+    {
+      "date": "2026-2-25",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12341.0",
+      "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-2-26",
+      "title": "Fly-In Thursday: Chicago",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "??? - ??? - KORD - KSEZ\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-26feb2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png"
     }
   ],
   "categories": {
