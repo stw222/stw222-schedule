@@ -570,6 +570,14 @@
       "startTime": "19:00",
       "description": "Tuesday on Anchorage Center",
       "image": ""
+    },
+    {
+      "date": "2026-3-4",
+      "title": "Indy Center Weekly Staffup - KCVG",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Featuring KCVG / KLUK\nhttps://flyindycenter.com/events/01104fad-4a58-4c8c-bb5a-d459f34b5f2b",
+      "image": "https://i.imgur.com/vcv2LIW.png"
     }
   ],
   "categories": {
