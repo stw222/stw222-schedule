@@ -626,6 +626,14 @@
       "startTime": "19:00",
       "description": "",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png"
+    },
+    {
+      "date": "2026-3-11",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png"
     }
   ],
   "categories": {
