@@ -660,6 +660,10 @@
     "other": {
       "color": "#dfeded",
       "icon": "tooltip-question"
+    },
+    "no stream": {
+      "color": "#0D0B0F",
+      "icon": "alpha-n-box"
     }
   }
 }
