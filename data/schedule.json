@@ -666,6 +666,22 @@
       "startTime": "14:00",
       "description": "The Pilot Club is flying KIND to KRDU",
       "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+        {
+      "date": "2026-3-16",
+      "title": "Minecraft Monday : Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg"
+    },
+    {
+      "date": "2026-2-17",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
     }
   ],
   "categories": {
