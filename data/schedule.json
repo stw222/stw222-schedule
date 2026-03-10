@@ -746,6 +746,14 @@
       "startTime": "19:00",
       "description": "Welcome to Indy!",
       "image": "https://i.imgur.com/vcv2LIW.png"
+    },
+    {
+      "date": "2026-3-26",
+      "title": "Steel City Surge - Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Fly-in or out of KPIT",
+      "image": "https://clevelandcenter.org/files/events/45004934.png"
     }
   ],
   "categories": {
