@@ -667,7 +667,7 @@
       "description": "The Pilot Club is flying KIND to KRDU",
       "image": "https://i.imgur.com/KcZGWSV.png"
     },
-        {
+    {
       "date": "2026-3-16",
       "title": "Minecraft Monday: Craftoria",
       "category": "minecraft",
@@ -722,6 +722,22 @@
       "startTime": "19:00",
       "description": "Lego Starwars: the Complete edition. I want to aim for about 90% completion.",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/header.jpg?t=1604517910"
+    },
+    {
+      "date": "2026-3-23",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg"
+    },
+    {
+      "date": "2026-3-24",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": ""
     }
   ],
   "categories": {
