@@ -738,6 +738,14 @@
       "startTime": "19:00",
       "description": "Tuesday on Anchorage Center",
       "image": ""
+    },
+    {
+      "date": "2026-3-25",
+      "title": "Wednesday Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Welcome to Indy!",
+      "image": "https://i.imgur.com/vcv2LIW.png"
     }
   ],
   "categories": {
