@@ -794,6 +794,14 @@
       "startTime": "19:00",
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png"
+    },
+    {
+      "date": "2026-1-1",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12299.0",
+      "image": "https://i.imgur.com/KcZGWSV.png"
     }
   ],
   "categories": {
