@@ -826,13 +826,23 @@
     },
     {
       "date": "2026-4-3",
-      "title": "HONK VI: The Real Honkwives of Boston Approach ",
+      "title": "HONK VI: The Real Honkwives of Boston Approach",
       "category": "flying",
       "startTime": "19:00",
       "description": "https://forums.vatusa.net/index.php?topic=12376.0",
       "image": "https://atchub.bvartcc.com/eventheaders/7ed4eca567456c7413564aa7a610745a.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-4",
+      "title": "Field of Dreams",
+      "category": "flying",
+      "startTime": "16:00",
+      "description": "DBQ > ALO > DSM\nhttps://forums.vatusa.net/index.php?topic=12381.0",
+      "image": "https://zauartcc.sfo3.digitaloceanspaces.com/production/events/1772493638878-FieldOfDreams3.png",
+      "offset": "300"
     }
+
   ],
   "categories": {
     "atc": {
