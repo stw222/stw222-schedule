@@ -789,7 +789,7 @@
       "offset": "180"
     },
     {
-      "date": "2026-3-30",
+      "date": "2026-3-31",
       "title": "Anchorage Center",
       "category": "atc",
       "startTime": "19:00",
@@ -798,7 +798,7 @@
       "offset": "300"
     },
     {
-      "date": "2026-3-31",
+      "date": "2026-4-1",
       "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
@@ -807,7 +807,7 @@
       "offset": "300"
     },
     {
-      "date": "2026-4-1",
+      "date": "2026-4-2",
       "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
@@ -816,7 +816,7 @@
       "offset": "300"
     },
     {
-      "date": "2026-4-2",
+      "date": "2026-4-3",
       "title": "FNO Down Under",
       "category": "flying",
       "startTime": "19:30",
@@ -825,7 +825,7 @@
       "offset": "300"
     },
     {
-      "date": "2026-4-3",
+      "date": "2026-4-4",
       "title": "HONK VI: The Real Honkwives of Boston Approach",
       "category": "flying",
       "startTime": "19:00",
@@ -834,7 +834,7 @@
       "offset": "300"
     },
     {
-      "date": "2026-4-4",
+      "date": "2026-4-5",
       "title": "Field of Dreams",
       "category": "flying",
       "startTime": "16:00",
