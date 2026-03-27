@@ -868,6 +868,15 @@
       "description": "This week is Pilot Club's Birthday week. There will be many events for the week. For this Tuesday, should i staff Potomac approach around Richmond? or should i fly this GA Tuesday?\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-7apr2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/e4495f75-7e0f-42ed-938b-62bfae3b86ed/GAT2_16x9_birthday_vUSA_FC.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-8",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12299.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
