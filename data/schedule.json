@@ -846,7 +846,7 @@
       "date": "2026-4-5",
       "title": "Field of Dreams",
       "category": "flying",
-      "startTime": "16:00",
+      "startTime": "15:45",
       "description": "DBQ > ALO > DSM\nhttps://forums.vatusa.net/index.php?topic=12381.0",
       "image": "https://zauartcc.sfo3.digitaloceanspaces.com/production/events/1772493638878-FieldOfDreams3.png",
       "offset": "300"
@@ -885,6 +885,15 @@
       "startTime": "19:00",
       "description": "Fly-In Thursday to Buffalo, NY (KBUF)\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-9apr2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/e4495f75-7e0f-42ed-938b-62bfae3b86ed/GAT2_16x9_birthday_vUSA_FC.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-10",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nI will most likely be working the east half of Indy Center (FWA transition into Chicago)\nNearby event: https://forums.vatusa.net/index.php?topic=12383.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
     }
   ],
