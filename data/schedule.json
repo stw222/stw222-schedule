@@ -922,6 +922,24 @@
       "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
       "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-14",
+      "title": "GA Tuesday: Birthday month",
+      "category": "flying",
+      "startTime": "18:30",
+      "description": "KPNE Fly-in https://www.thepilotclub.org/dispatch/ga-tuesday-14apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/56295804-2ff6-491c-b8b4-59bac62868fb/GAT2_16x9_club_birthday.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-15",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
