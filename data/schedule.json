@@ -940,6 +940,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-16",
+      "title": "Thursdays in Toronto",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Lets fly a small plane into / out of Canada\nKART > CYOO > KROC > CYXU\nhttps://vatcan.ca/division/event/1108",
+      "image": "https://canada.ams3.digitaloceanspaces.com/events/new-event-1773606692.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
