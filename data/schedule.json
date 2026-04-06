@@ -881,7 +881,7 @@
     {
       "date": "2026-4-9",
       "title": "TPC Birthday Week | Fly-In Thursday: KBUF",
-      "category": "atc",
+      "category": "flying",
       "startTime": "19:00",
       "description": "Fly-In Thursday to Buffalo, NY (KBUF)\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-9apr2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/4cadc5b4-753c-41a3-a141-a0c24a052230/SBR_FIT2__birthday.png",
@@ -894,6 +894,15 @@
       "startTime": "18:50",
       "description": "Come fly into, out of, or over the top of Indy Center!\nI will most likely be working the east half of Indy Center (FWA transition into Chicago)\nNearby event: https://forums.vatusa.net/index.php?topic=12383.0",
       "image": "https://zauartcc.sfo3.digitaloceanspaces.com/production/events/1772963194253-GreatAmericanFNO.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-11",
+      "title": "Orlando Live",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KORL > KFTY > ???\nhttps://forums.vatusa.net/index.php?topic=12226.0",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/4cadc5b4-753c-41a3-a141-a0c24a052230/SBR_FIT2__birthday.png",
       "offset": "300"
     }
   ],
