@@ -949,6 +949,15 @@
       "description": "Lets fly a small plane into / out of Canada\nKART > CYOO > KROC > CYXU\nhttps://vatcan.ca/division/event/1108",
       "image": "https://canada.ams3.digitaloceanspaces.com/events/new-event-1773606692.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-17",
+      "title": "Boxed-in FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "MD-11 - KBIL > KPDX > ???\nhttps://forums.vatusa.net/index.php?topic=12356.0\nhttps://www.thepilotclub.org/dispatch/fno-17apr2026",
+      "image": "https://canada.ams3.digitaloceanspaces.com/events/new-event-1773606692.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
