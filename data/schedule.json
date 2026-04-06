@@ -902,7 +902,16 @@
       "category": "flying",
       "startTime": "18:30",
       "description": "KORL > KFTY > ???\nhttps://forums.vatusa.net/index.php?topic=12226.0",
-      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/4cadc5b4-753c-41a3-a141-a0c24a052230/SBR_FIT2__birthday.png",
+      "image": "https://live.staticflickr.com/65535/55190787890_c57bc4b294_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-4-12",
+      "title": "Indy Center - The Dulles Night Shift",
+      "category": "atc",
+      "startTime": "17:55",
+      "description": "ZDC is lighting up Dulles airport this sunday night. I shall staff ZID to their west\nhttps://forums.vatusa.net/index.php?topic=12385.0",
+      "image": "https://utfs.io/f/4LL8Da7DF6qXoUNLjlXe3IdP4F5uGwEqmNUlc6tzK0pQ8Shn",
       "offset": "300"
     }
   ],
