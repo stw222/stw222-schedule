@@ -958,6 +958,15 @@
       "description": "MD-11 - KBIL > KPDX > ???\nhttps://forums.vatusa.net/index.php?topic=12356.0\nhttps://www.thepilotclub.org/dispatch/fno-17apr2026",
       "image": "https://canada.ams3.digitaloceanspaces.com/events/new-event-1773606692.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-18",
+      "title": "Indy Center - Red Wings Rampage (KDTW)",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Fly to or from KDTW through Indy Center airspace\nhttps://forums.vatusa.net/index.php?topic=12366.0\nhttps://flyindycenter.com/events/45e6fd46-a57d-49d0-a071-de5fcb6362d3",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KHHKFHG1DF14S21W5DG2TGB3.png",
+      "offset": "300"
     }
   ],
   "categories": {
