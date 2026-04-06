@@ -913,6 +913,15 @@
       "description": "ZDC is lighting up Dulles airport this sunday night. I shall staff ZID to their west\nhttps://forums.vatusa.net/index.php?topic=12385.0",
       "image": "https://utfs.io/f/4LL8Da7DF6qXoUNLjlXe3IdP4F5uGwEqmNUlc6tzK0pQ8Shn",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-13",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
