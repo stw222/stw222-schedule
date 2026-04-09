@@ -921,7 +921,7 @@
       "startTime": "19:00",
       "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
       "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
-      "offset": "300"
+      "offset": "360"
     },
     {
       "date": "2026-4-14",
@@ -976,6 +976,24 @@
       "description": "A game from my childhood: Need For Speed Carbon.",
       "image": "https://live.staticflickr.com/65535/55164823448_3fe856d3b7_b.jpg",
       "offset": "180"
+    },
+    {
+      "date": "2026-4-20",
+      "title": "Minecraft Monday: Craftoria",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
+      "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
+      "offset": "360"
+    },
+    {
+      "date": "2026-4-21",
+      "title": "Lakeland Fly-in",
+      "category": "flying",
+      "startTime": "19:30",
+      "description": "Fly-in to KLAL. This is also my birthday\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-25apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/8243fecf-0caf-49a9-9c9f-255022ebe44b/sun-n-fun-2026.jpeg",
+      "offset": "300"
     }
   ],
   "categories": {
