@@ -1021,8 +1021,16 @@
       "description": "No stream since I will be flying or controlling CTP early tomorrow morning",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-25",
+      "title": "Cross The Pond day",
+      "category": "atc",
+      "startTime": "7:00",
+      "description": "Details will be changed once that information is available to me",
+      "image": "https://ctp.nyc3.digitaloceanspaces.com/01KJ8JGXJRBMX4NQPADN8W3NGV.png",
+      "offset": "480"
     }
-
   ],
   "categories": {
     "atc": {
