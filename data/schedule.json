@@ -994,6 +994,15 @@
       "description": "Fly-in to KLAL. This is also my birthday\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-25apr2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/8243fecf-0caf-49a9-9c9f-255022ebe44b/sun-n-fun-2026.jpeg",
       "offset": "300"
+    },
+    {
+      "date": "2026-4-22",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12384.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
