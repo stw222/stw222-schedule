@@ -1030,6 +1030,15 @@
       "description": "I will be controling a portion of Indy Center. This will cover some ATL and DFW departures depending on which sectors I am specifically covering.",
       "image": "https://ctp.nyc3.digitaloceanspaces.com/01KJ8JGXJRBMX4NQPADN8W3NGV.png",
       "offset": "480"
+    },
+    {
+      "date": "2026-4-26",
+      "title": "Sunday Funday - SWA Co-op",
+      "category": "flying",
+      "startTime": "14:00",
+      "description": "Were flying 2 legs: KDAL > KHOU > KDAL\nIm starting early because there will be lots of pilots flying this.\nhttps://www.thepilotclub.org/dispatch/sunday-funday-26apr2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/c3bc1e4e-379f-4eb1-bb2c-b8f4898baabf/SF_16x9coop-tpc-sw_6.png",
+      "offset": "300"
     }
   ],
   "categories": {
