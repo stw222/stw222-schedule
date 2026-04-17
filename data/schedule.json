@@ -1029,7 +1029,7 @@
       "startTime": "7:30",
       "description": "I will be controling a portion of Indy Center. This will cover some ATL and DFW departures depending on which sectors I am specifically covering.",
       "image": "https://ctp.nyc3.digitaloceanspaces.com/01KJ8JGXJRBMX4NQPADN8W3NGV.png",
-      "offset": "480"
+      "offset": "360"
     },
     {
       "date": "2026-4-26",
@@ -1038,7 +1038,16 @@
       "startTime": "14:00",
       "description": "Were flying 2 legs: KDAL > KHOU > KDAL\nIm starting early because there will be lots of pilots flying this.\nhttps://www.thepilotclub.org/dispatch/sunday-funday-26apr2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/c3bc1e4e-379f-4eb1-bb2c-b8f4898baabf/SF_16x9coop-tpc-sw_6.png",
-      "offset": "300"
+      "offset": "240"
+    },
+    {
+      "date": "2026-4-27",
+      "title": "Anchorage Center with SlantAlphaAdventures",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Slant Alpha Adventures plans to staff Anchorage approach, so I will staff the center and be a mentor if he has questions\nhttps://www.twitch.tv/slantalphaadventures",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
