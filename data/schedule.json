@@ -1082,8 +1082,17 @@
       "category": "atc",
       "startTime": "18:50",
       "description": "Memphis will be stacked today\nhttps://forums.vatusa.net/index.php?topic=12358.0\nhttps://flyindycenter.com/events/a79a6137-2bfd-42b2-b8ad-281705e3e09b",
-      "image": "https://clevelandcenter.org/files/events/32554545.png",
+      "image": "https://live.staticflickr.com/65535/55220438796_777672491e_b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-5-2",
+      "title": "CalScream",
+      "category": "flying",
+      "startTime": "18:45",
+      "description": "SWA2806, KSJC > KLAS then SWA2735 KLAS > KRNO\nBook your slots here: https://calscream.com\nhttps://forums.vatusa.net/index.php?topic=12249.0",
+      "image": "https://live.staticflickr.com/65535/55220691904_1a3c48e9e4_b.jpg",
+      "offset": "240"
     }
   ],
   "categories": {
