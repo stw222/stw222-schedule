@@ -1120,6 +1120,15 @@
       "description": "Come fly in America's largest state!",
       "image": "",
       "offset": "360"
+    },
+    {
+      "date": "2026-5-6",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12373.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
