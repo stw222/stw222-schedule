@@ -1111,6 +1111,15 @@
       "description": "There is a #Craftoria channel in the discord with the IP and other info if you want to join us.",
       "image": "https://live.staticflickr.com/65535/55118641484_39246e2f7d_b.jpg",
       "offset": "360"
+    },
+    {
+      "date": "2026-5-5",
+      "title": "Anchorage Center Tuesday",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly in America's largest state!",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
