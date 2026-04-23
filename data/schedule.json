@@ -1129,6 +1129,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://forums.vatusa.net/index.php?topic=12373.0",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-5-7",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I now have my Memphis Center cert. I'll staff the center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226113298_0107d76b11.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
