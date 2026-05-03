@@ -1147,6 +1147,15 @@
       "description": "I will be staffing the eastern area of ZID, covering the SCRLT, CLPPR arrivals and the POBSE departure cooridor.\nhttps://forums.vatusa.net/index.php?topic=12408.0",
       "image": "https://i.postimg.cc/ZYL9mqV1/Things-To-Do-In-Ohio.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-5-9",
+      "title": "The Atlanta Perimeter - Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "I will staff the east half of indy for this ATL event\nhttps://forums.vatusa.net/index.php?topic=12414.0",
+      "image": "https://i.gyazo.com/c0272bce5bf9f689731f6dd1004e24b6.png",
+      "offset": "300"
     }
   ],
   "categories": {
