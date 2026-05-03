@@ -1179,7 +1179,7 @@
       "date": "2026-5-12",
       "title": "GA Tuesday - LA part 2",
       "category": "flying",
-      "startTime": "19:30",
+      "startTime": "19:00",
       "description": "GA Tuesday in Louisiana - KLCH > KLFT > KBTR\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-12may2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png",
       "offset": "300"
@@ -1191,6 +1191,24 @@
       "startTime": "18:55",
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-14",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Thursday Memphis Center. I'll staff the center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-15",
+      "title": "Desert Southwest Spotlight",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Flying KSFO > KPHX > ??? in the Citation X\nhttps://forums.vatusa.net/index.php?topic=12412.0\nhttps://www.thepilotclub.org/dispatch/fno-15may2026",
+      "image": "https://live.staticflickr.com/65535/55245231201_c1bf46c0fe_b.jpg",
       "offset": "300"
     }
   ],
