@@ -1183,6 +1183,15 @@
       "description": "GA Tuesday in Louisiana - KLCH > KLFT > KBTR\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-12may2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1668728347994-0A13NP3Y48Z6V0BEID8E/GAT_promo_2b_16x9.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-5-13",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:55",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
