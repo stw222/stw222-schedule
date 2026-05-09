@@ -1244,7 +1244,7 @@
       "category": "flying",
       "startTime": "19:00",
       "description": "Fly-In To KISP\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-19may2026\nhttps://forums.vatusa.net/index.php?topic=12390.0",
-      "image": "hhttps://zny-uploads.s3.amazonaws.com/images-banners/ZBHollEpNEl6kX16JAEDMi1KnBbfP1wq8aO26kpo.png",
+      "image": "https://zny-uploads.s3.amazonaws.com/images-banners/ZBHollEpNEl6kX16JAEDMi1KnBbfP1wq8aO26kpo.png",
       "offset": "300"
     },
     {
@@ -1254,6 +1254,15 @@
       "startTime": "18:55",
       "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event at KMKE: https://forums.vatusa.net/index.php?topic=12415.0",
       "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-21",
+      "title": "Fly-in Thursday: Escape to the Cape",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Fly-In to KFMH\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-21may2026\nhttps://forums.vatusa.net/index.php?topic=12424.0",
+      "image": "https://atchub.bvartcc.com/eventheaders/324964a44e816138206d52a9b8eeb732.png",
       "offset": "300"
     }
   ],
