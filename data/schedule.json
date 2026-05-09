@@ -1222,7 +1222,7 @@
     },
     {
       "date": "2026-5-17",
-      "title": "Indy Center",
+      "title": "10 hours of Indy Center",
       "category": "atc",
       "startTime": "13:00",
       "description": "10+ Hours of Indy Center",
@@ -1245,6 +1245,15 @@
       "startTime": "19:00",
       "description": "Fly-In To KISP\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-19may2026\nhttps://forums.vatusa.net/index.php?topic=12390.0",
       "image": "hhttps://zny-uploads.s3.amazonaws.com/images-banners/ZBHollEpNEl6kX16JAEDMi1KnBbfP1wq8aO26kpo.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-20",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:55",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event at KMKE: https://forums.vatusa.net/index.php?topic=12415.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
     }
   ],
