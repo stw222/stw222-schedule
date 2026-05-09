@@ -1222,11 +1222,11 @@
     },
     {
       "date": "2026-5-17",
-      "title": "10 hours of Indy Center",
-      "category": "atc",
-      "startTime": "13:00",
-      "description": "10+ Hours of Indy Center",
-      "image": "https://i.imgur.com/KcZGWSV.png",
+      "title": "Flying around San Diego",
+      "category": "flying",
+      "startTime": "16:50",
+      "description": "Flying VFR around socal",
+      "image": "https://live.staticflickr.com/65535/55259882105_50db5f65c9_b.jpg",
       "offset": "600"
     },
     {
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-5-19",
-      "title": "GA Tuesday into `Lawn Guyland``",
+      "title": "GA Tuesday into `Lawn Guyland`",
       "category": "flying",
       "startTime": "19:00",
       "description": "Fly-In To KISP\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-19may2026\nhttps://forums.vatusa.net/index.php?topic=12390.0",
