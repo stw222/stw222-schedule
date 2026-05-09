@@ -1219,6 +1219,15 @@
       "description": "KMEM > KIAH > KMEM\nhttps://forums.vatusa.net/index.php?topic=12423.0",
       "image": "https://live.staticflickr.com/65535/55259098216_d62b1f3107_b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-5-17",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "13:00",
+      "description": "10+ Hours of Indy Center",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "600"
     }
   ],
   "categories": {
