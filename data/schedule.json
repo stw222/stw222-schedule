@@ -1210,6 +1210,15 @@
       "description": "Flying KSFO > KPHX > ??? in the Citation X\nhttps://forums.vatusa.net/index.php?topic=12412.0\nhttps://www.thepilotclub.org/dispatch/fno-15may2026",
       "image": "https://live.staticflickr.com/65535/55245231201_c1bf46c0fe_b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-5-16",
+      "title": "Houston Live SNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KMEM > KIAH > KMEM\nhttps://forums.vatusa.net/index.php?topic=12423.0",
+      "image": "https://live.staticflickr.com/65535/55259098216_d62b1f3107_b.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
