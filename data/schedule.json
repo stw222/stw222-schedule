@@ -1318,6 +1318,15 @@
       "description": "??? > KLIT > Wherever another approach controller is\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-26may2026",
       "image": "https://live.staticflickr.com/65535/55272465390_a78ae6afc3_b.jpg",
       "offset": "180"
+    },
+    {
+      "date": "2026-5-27",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:55",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event at KMKE: https://forums.vatusa.net/index.php?topic=12415.0",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
