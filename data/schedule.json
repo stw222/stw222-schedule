@@ -1323,9 +1323,18 @@
       "date": "2026-5-27",
       "title": "Indy Center",
       "category": "atc",
-      "startTime": "18:55",
-      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event at KMKE: https://forums.vatusa.net/index.php?topic=12415.0",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-5-28",
+      "title": "Indy Center - Fly-In Thursday",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nTPC is flying into Louisville - https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-28may2026\nhttps://flyindycenter.com/events/2c6c54e9-1b34-4f0d-9b0d-c232b61d37d1",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png?format=2500w",
       "offset": "300"
     }
   ],
