@@ -1382,6 +1382,10 @@
       "color": "#dfeded",
       "icon": "tooltip-question"
     },
+    "forza": {
+      "color": "#FF0000",
+      "icon": "car-side"
+    },
     "no stream": {
       "color": "#A600EB",
       "icon": "alpha-n-box"
