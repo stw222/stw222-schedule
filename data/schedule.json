@@ -1399,6 +1399,15 @@
       "description": "TBD",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-6-5",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
