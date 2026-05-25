@@ -1363,6 +1363,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "180"
+    },
+    {
+      "date": "2026-6-1",
+      "title": "Forza Horizon 6",
+      "category": "forza",
+      "startTime": "19:00",
+      "description": "I guess we're not doing minecraft for a few weeks",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pcguia.pt%2Fwp-content%2Fuploads%2F2021%2F09%2FForza-Horizon-5.jpg",
+      "offset": "240"
     }
   ],
   "categories": {
