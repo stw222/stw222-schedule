@@ -1373,7 +1373,7 @@
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pcguia.pt%2Fwp-content%2Fuploads%2F2021%2F09%2FForza-Horizon-5.jpg",
       "offset": "240"
     },
-   {
+    {
       "date": "2026-6-2",
       "title": "Anchorage Center Tuesday",
       "category": "atc",
@@ -1391,7 +1391,7 @@
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
     },
-        {
+    {
       "date": "2026-6-4",
       "title": "Memphis Center",
       "category": "atc",
@@ -1408,6 +1408,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nFly to PCT airports: https://forums.vatusa.net/index.php?topic=12400.0\nhttps://flyindycenter.com/events/63bfb696-4cb2-4323-a644-b94edfa927e4",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-6-6",
+      "title": "Denver Live",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "ATL > HTS > ATL > BNA\nI would rather not fly the route from south america\nEvent: https://forums.vatusa.net/index.php?topic=12438.0",
+      "image": "https://live.staticflickr.com/65535/55277725652_974e2849c9_b.jpg",
+      "offset": "180"
     }
   ],
   "categories": {
