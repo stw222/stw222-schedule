@@ -1444,6 +1444,15 @@
       "description": "KPJX > KFOK > KFDK\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-9jun2026",
       "image": "https://zny-uploads.s3.amazonaws.com/images-banners/WteAjQnmJXebvWd04pVojBP0FOUgvp1BlYZ8tRnv.jpg",
       "offset": "180"
+    },
+    {
+      "date": "2026-6-10",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
