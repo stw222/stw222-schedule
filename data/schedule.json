@@ -1471,6 +1471,15 @@
       "description": "??? > KMSP > ???\nhttps://forums.vatusa.net/index.php?topic=12436.0",
       "image": "https://lakevilleweather.com/zmp/northernexposure_2.png",
       "offset": "180"
+    },
+    {
+      "date": "2026-6-13",
+      "title": "TBD",
+      "category": "other",
+      "startTime": "19:00",
+      "description": "TBD",
+      "image": "",
+      "offset": "180"
     }
   ],
   "categories": {
