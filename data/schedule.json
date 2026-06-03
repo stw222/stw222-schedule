@@ -1507,6 +1507,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nnearby event: https://forums.vatusa.net/index.php?topic=12428.0",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-6-17",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
