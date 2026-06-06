@@ -1422,8 +1422,8 @@
       "date": "2026-6-7",
       "title": "Sunday Service",
       "category": "flying",
-      "startTime": "14:00",
-      "description": "Route TBD but it will be into / out of / through Havana center\nhttps://my.vatsim.net/events/havana-sunday-service-244",
+      "startTime": "14:30",
+      "description": "MWCR to MYNN in the B738-BBJ2\nhttps://my.vatsim.net/events/havana-sunday-service-244",
       "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KQ0EEGBJBDR0RVXZGYTBATK1.png",
       "offset": "180"
     },
@@ -1474,10 +1474,10 @@
     },
     {
       "date": "2026-6-13",
-      "title": "TBD",
-      "category": "other",
+      "title": "vUSA Flying Club Fly-in to 23S",
+      "category": "flying",
       "startTime": "19:00",
-      "description": "TBD",
+      "description": "KGEG > 23S\nlow and slow route: https://tinyurl.com/STW-0613-v1\nhttps://docs.google.com/document/d/161QoFhWDLXaxnH1tXsnJQZBcXmpiJ8My3bscRWaGQRM/edit?usp=drivesdk",
       "image": "",
       "offset": "180"
     },
