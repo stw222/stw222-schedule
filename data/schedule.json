@@ -1525,6 +1525,15 @@
       "description": "I'll staff Memphis center or huntsville approach, whatever I am assigned. or I will fly if I dont get assigned something",
       "image": "https://memphis-artcc2.nyc3.digitaloceanspaces.com/events/1774630434714-RocketCity26.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-6-19",
+      "title": "VATMEX Golden Triangle FNO",
+      "category": "flying",
+      "startTime": "19:30",
+      "description": "Flying to/from MMMY / MMGL / MMMX\nhttps://forums.vatusa.net/index.php?topic=12434.0",
+      "image": "",
+      "offset": "180"
     }
   ],
   "categories": {
