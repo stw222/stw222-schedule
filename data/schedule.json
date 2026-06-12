@@ -1570,6 +1570,15 @@
       "description": "We'll fly in and out of KPWM\nhttps://forums.vatusa.net/index.php?topic=12425.0",
       "image": "https://atchub.bvartcc.com/eventheaders/302ea953888a9fce1e1b167a6b18273f.png",
       "offset": "180"
+    },
+    {
+      "date": "2026-6-24",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nZID is staffing up EVV and OWB: https://flyindycenter.com/events/a345c368-6011-439a-aeb2-f77b5c189312",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
