@@ -1550,7 +1550,7 @@
       "category": "flying",
       "startTime": "18:30",
       "description": "I will fly eastbound\nRoute details: https://docs.google.com/document/d/1v9jdA1iCoasumA9L21wOr2l58buMaJJoQatCb_6EdUU/edit?tab=t.0",
-      "image": "",
+      "image": "https://live.staticflickr.com/65535/55330072194_433c627a57_b.jpg",
       "offset": "180"
     },
     {
@@ -1561,6 +1561,15 @@
       "description": "I guess we're not doing minecraft for a few weeks",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pcguia.pt%2Fwp-content%2Fuploads%2F2021%2F09%2FForza-Horizon-5.jpg",
       "offset": "240"
+    },
+    {
+      "date": "2026-6-23",
+      "title": "Portland Jetport showcase",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "We'll fly in and out of KPWM\nhttps://forums.vatusa.net/index.php?topic=12425.0",
+      "image": "https://atchub.bvartcc.com/eventheaders/302ea953888a9fce1e1b167a6b18273f.png",
+      "offset": "180"
     }
   ],
   "categories": {
