@@ -1543,6 +1543,15 @@
       "description": "I plan to fly to a few airports:https://vhcf.net/pilot_passport",
       "image": "",
       "offset": "180"
+    },
+    {
+      "date": "2026-6-21",
+      "title": "vUSA Flying Club - 49th Parallel Pendulum",
+      "category": "flying",
+      "startTime": "18:30",
+      "description": "I will fly eastbound\nRoute details: https://docs.google.com/document/d/1v9jdA1iCoasumA9L21wOr2l58buMaJJoQatCb_6EdUU/edit?tab=t.0",
+      "image": "",
+      "offset": "180"
     }
   ],
   "categories": {
