@@ -1597,6 +1597,15 @@
       "description": "I will be monitoring a student during this event, so i wont stream it. But I will at least upload a timelapse of the event",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-6-27",
+      "title": "ZLA Live",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route TBD\nhttps://forums.vatusa.net/index.php?topic=12435.0",
+      "image": "https://live.staticflickr.com/65535/55339434394_ccd8a69bf2_b.jpg",
+      "offset": "180"
     }
   ],
   "categories": {
