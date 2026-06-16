@@ -1579,6 +1579,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nZID is staffing up EVV and OWB: https://flyindycenter.com/events/a345c368-6011-439a-aeb2-f77b5c189312",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-6-25",
+      "title": "Fly-in Thursday: Seattle",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-25jun2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png",
+      "offset": "180"
     }
   ],
   "categories": {
