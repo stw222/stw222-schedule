@@ -1537,20 +1537,20 @@
     },
     {
       "date": "2026-6-20",
-      "title": "Anchorage Center",
-      "category": "atc",
-      "startTime": "19:00",
-      "description": "Lets do a weekend on Anchorage. Maybe there will be more traffic",
-      "image": "",
-      "offset": "180"
-    },
-    {
-      "date": "2026-6-21",
       "title": "vUSA Flying Club - 49th Parallel Pendulum",
       "category": "flying",
       "startTime": "18:30",
       "description": "I will fly eastbound\nRoute details: https://docs.google.com/document/d/1v9jdA1iCoasumA9L21wOr2l58buMaJJoQatCb_6EdUU/edit?tab=t.0",
       "image": "https://live.staticflickr.com/65535/55330072194_433c627a57_b.jpg",
+      "offset": "180"
+    },
+    {
+      "date": "2026-6-21",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Lets do a weekend on Anchorage. Maybe there will be more traffic",
+      "image": "",
       "offset": "180"
     },
     {
