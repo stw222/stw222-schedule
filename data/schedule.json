@@ -1588,6 +1588,15 @@
       "description": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-25jun2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png",
       "offset": "180"
+    },
+    {
+      "date": "2026-6-26",
+      "title": "No Stream: Fireworks on Final",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "I will be monitoring a student during this event, so i wont stream it. But I will at least upload a timelapse of the event",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
