@@ -1624,6 +1624,15 @@
       "description": "I will be given a randomly chosen position within Houston Center. This will be from a selection of most ground, tower and approach positions.",
       "image": "",
       "offset": "240"
+    },
+    {
+      "date": "2026-7-25",
+      "title": "Charity marathon: The Caribbean",
+      "category": "flying",
+      "startTime": "7:50",
+      "description": "Route TBD\nMore info: TBA",
+      "image": "https://live.staticflickr.com/65535/55339434394_ccd8a69bf2_b.jpg",
+      "offset": "960"
     }
   ],
   "categories": {
