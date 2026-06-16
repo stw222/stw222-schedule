@@ -1607,9 +1607,15 @@
       "image": "https://live.staticflickr.com/65535/55339434394_ccd8a69bf2_b.jpg",
       "offset": "180"
     },
-
-
-
+    {
+      "date": "2026-6-28",
+      "title": "Visit Cancun",
+      "category": "flying",
+      "startTime": "14:00",
+      "description": "Route TBD\nhttps://my.vatsim.net/events/visit-cancun-56",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KTQTXEXS5C83FCP1NRGB3BQ9.jpg",
+      "offset": "180"
+    },
     {
       "date": "2026-6-29",
       "title": "Forza Horizon 6",
