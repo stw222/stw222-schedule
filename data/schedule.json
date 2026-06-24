@@ -1728,6 +1728,10 @@
     "no stream": {
       "color": "#A600EB",
       "icon": "alpha-n-box"
+    },
+    "TBD": {
+      "color": "#000000",
+      "icon": "help-circle"
     }
   }
 }
