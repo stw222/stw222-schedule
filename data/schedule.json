@@ -1692,7 +1692,8 @@
       "date": "2026-7-7",
       "title": "No stream",
       "category": "no stream",
-      "startTime": "Student training",
+      "startTime": "19:00",
+      "description": "Student training",
       "image": "",
       "offset": "300"
     },
