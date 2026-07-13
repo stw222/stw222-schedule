@@ -1832,9 +1832,15 @@
       "image": "https://live.staticflickr.com/65535/55339593509_6265b1310f_b.jpg",
       "offset": "300"
     },
-    
-
-
+    {
+      "date": "2026-7-23",
+      "title": "Southwest VA",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route: TBD",
+      "image": "https://www.swavirtual.com/SVA Blue.svg",
+      "offset": "300"
+    },
     {
       "date": "2026-7-24",
       "title": "`The Wheel`",
