@@ -1858,6 +1858,15 @@
       "description": "Route KOPF to TNCA\nMore info: https://tinyurl.com/caribbeanskiesmarathon \nDonate to the cause: https://greatcyclechallenge.com/Riders/EricLeMarier",
       "image": "https://live.staticflickr.com/65535/55339429676_797c855ea1_b.jpg",
       "offset": "960"
+    },
+    {
+      "date": "2026-7-26",
+      "title": "No stream - rest day",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "rest day",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
