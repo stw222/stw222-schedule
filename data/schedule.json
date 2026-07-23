@@ -1885,6 +1885,15 @@
       "description": "Route: TBA",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/89efbb0d-f0ae-4535-a157-96d1025663af/GAT2_16x9_LANDMARKS.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-7-29",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
