@@ -1899,9 +1899,18 @@
       "date": "2026-7-30",
       "title": "Fly-In Thursday: Boston",
       "category": "flying",
-      "startTime": "19:30",
+      "startTime": "19:00",
       "description": "??? > KBOS > ???\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-30jul2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/7d0bf818-bdab-496c-8445-ce477055de2a/FIT_july2026.jpg",
+      "offset": "300"
+    },
+    {
+      "date": "2026-7-31",
+      "title": "The `Peg to Pearson FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "CYYZ > CYWG > KMSP\nhttps://www.vatusa.net/events/8",
+      "image": "https://i.imgur.com/98kBGPd.png",
       "offset": "300"
     }
   ],
