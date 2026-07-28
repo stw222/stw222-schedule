@@ -1912,6 +1912,15 @@
       "description": "CYYZ > CYWG > KMSP\nhttps://www.vatusa.net/events/8",
       "image": "https://i.imgur.com/98kBGPd.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-8-1",
+      "title": "27th Annual Boston Tea Party",
+      "category": "flying",
+      "startTime": "12:00",
+      "description": "Route: TBD\nBoston does this poker game thing that you can play by flying to any number of towered or untowered airports. Check the event page for details:\nhttps://www.vatusa.net/events/9",
+      "image": "https://i.imgur.com/98kBGPd.png",
+      "offset": "300"
     }
   ],
   "categories": {
