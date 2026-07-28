@@ -1921,6 +1921,15 @@
       "description": "Route: TBD\nBoston does this poker game thing that you can play by flying to any number of towered or untowered airports. Check the event page for details:\nhttps://www.vatusa.net/events/9",
       "image": "https://atchub.bvartcc.com/eventheaders/28a163290428ce808976d821be4857dd.png",
       "offset": "330"
+    },
+    {
+      "date": "2026-8-2",
+      "title": "West Coast Weekends",
+      "category": "flying",
+      "startTime": "14:30",
+      "description": "PAJN > PAKT > CYVR\nhttps://my.vatsim.net/events/west-coast-weekends-107",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KVPWJ25ZW3TZDVQW6V49V2N7.jpg",
+      "offset": "330"
     }
   ],
   "categories": {
