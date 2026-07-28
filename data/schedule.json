@@ -1930,6 +1930,15 @@
       "description": "PAJN > PAKT > CYVR\nhttps://my.vatsim.net/events/west-coast-weekends-107",
       "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KVPWJ25ZW3TZDVQW6V49V2N7.jpg",
       "offset": "330"
+    },
+    {
+      "date": "2026-8-3",
+      "title": "Welcome back to Palworld",
+      "category": "palworld",
+      "startTime": "19:00",
+      "description": "Were playing palworld again!",
+      "image": "https://palworld.wiki.gg/images/thumb/Palworld_KeyVisual_1080p_Loco_C.png/400px-Palworld_KeyVisual_1080p_Loco_C.png?958c2d",
+      "offset": "360"
     }
   ],
   "categories": {
@@ -1960,6 +1969,10 @@
     "TBD": {
       "color": "#000000",
       "icon": "help-circle"
+    },
+    "palworld": {
+      "color": "#00b894",
+      "icon": "sphere"
     }
   }
 }
