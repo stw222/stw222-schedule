@@ -2065,6 +2065,15 @@
       "description": "Were playing palworld again!",
       "image": "https://palworld.wiki.gg/images/thumb/Palworld_KeyVisual_1080p_Loco_C.png/400px-Palworld_KeyVisual_1080p_Loco_C.png?958c2d",
       "offset": "360"
+    },
+    {
+      "date": "2026-8-18",
+      "title": "KFFA Fly-in: GA Tuesday",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Fly-in to KFFA, First Flight airport\nhttps://www.thepilotclub.org/dispatch/ga-tuesday-18aug2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/11945a6a-7e57-4eba-895f-7b32f662c32c/GAT2_16x9_FLY-IN.png",
+      "offset": "300"
     }
   ],
   "categories": {
