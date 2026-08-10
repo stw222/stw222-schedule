@@ -2056,6 +2056,15 @@
       "description": "Fly-in to 23N\nRead the brief for specific procedures at this airport: https://docs.google.com/document/d/1-UHcrTrjgv1q5EyCJuGbnmotMq631Y0YaHEW7FHJlik/edit?tab=t.0",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/3f3c7b1c-31b2-4e95-a18a-8003ee6ee562/vusa_FC_16aug2026.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-8-17",
+      "title": "Palworld",
+      "category": "palworld",
+      "startTime": "19:00",
+      "description": "Were playing palworld again!",
+      "image": "https://palworld.wiki.gg/images/thumb/Palworld_KeyVisual_1080p_Loco_C.png/400px-Palworld_KeyVisual_1080p_Loco_C.png?958c2d",
+      "offset": "360"
     }
   ],
   "categories": {
