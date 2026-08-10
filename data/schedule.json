@@ -2047,6 +2047,15 @@
       "description": "https://www.vatusa.net/events/32",
       "image": "https://zny-uploads.s3.amazonaws.com/images-banners/SMNrM3IwBB3lPdVoROoc9vdUzTu8q82e1rSI4kU5.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-8-16",
+      "title": "vUSA Flying Club 7th Anniversary",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://docs.google.com/document/d/1-UHcrTrjgv1q5EyCJuGbnmotMq631Y0YaHEW7FHJlik/edit?tab=t.0",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/3f3c7b1c-31b2-4e95-a18a-8003ee6ee562/vusa_FC_16aug2026.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
