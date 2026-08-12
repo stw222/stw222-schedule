@@ -2041,11 +2041,11 @@
     },
     {
       "date": "2026-8-15",
-      "title": "The City That Never Sleeps (ZNY Live)",
+      "title": "HCF Center",
       "category": "flying",
-      "startTime": "13:30",
-      "description": "https://www.vatusa.net/events/32",
-      "image": "https://zny-uploads.s3.amazonaws.com/images-banners/SMNrM3IwBB3lPdVoROoc9vdUzTu8q82e1rSI4kU5.png",
+      "startTime": "19:00",
+      "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available\nI would have done ZNY live, but there is a family members birthday today",
+      "image": "https://live.staticflickr.com/65535/55459908460_d5171a74e0.jpg",
       "offset": "300"
     },
     {
@@ -2082,6 +2082,15 @@
       "startTime": "19:00",
       "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://www.vatusa.net/events/33",
       "image": "https://zauartcc-prod.sfo3.cdn.digitaloceanspaces.com/events/1784100336672-WindyCityWednesday2026.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-8-20",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I'll staff Memphis center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
       "offset": "300"
     }
   ],
