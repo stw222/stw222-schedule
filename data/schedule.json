@@ -2155,6 +2155,15 @@
       "description": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-27aug2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-8-28",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:55",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nEvent to the north: https://www.vatusa.net/events/41",
+      "image": "https://clevelandcenter.org/assets/banners/the-great-lakes-slug-fest.png",
+      "offset": "300"
     }
   ],
   "categories": {
