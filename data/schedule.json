@@ -2164,6 +2164,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nEvent to the north: https://www.vatusa.net/events/41",
       "image": "https://clevelandcenter.org/assets/banners/the-great-lakes-slug-fest.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-8-29",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I'll staff Memphis center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
