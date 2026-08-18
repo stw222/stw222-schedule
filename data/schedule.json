@@ -2181,6 +2181,15 @@
       "startTime": "19:00",
       "description": "Sunday on Anchorage Center",
       "image": ""
+    },
+    {
+      "date": "2026-8-31",
+      "title": "Palworld",
+      "category": "palworld",
+      "startTime": "19:00",
+      "description": "Were playing palworld again!",
+      "image": "https://palworld.wiki.gg/images/thumb/Palworld_KeyVisual_1080p_Loco_C.png/400px-Palworld_KeyVisual_1080p_Loco_C.png?958c2d",
+      "offset": "360"
     }
   ],
   "categories": {
