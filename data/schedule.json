@@ -2176,11 +2176,12 @@
     },
     {
       "date": "2026-8-30",
-      "title": "Anchorage Center",
-      "category": "atc",
+      "title": "HCF Center",
+      "category": "flying",
       "startTime": "14:00",
-      "description": "Sunday on Anchorage Center",
-      "image": ""
+      "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available.",
+      "image": "https://i.imgur.com/1Zk77Q1.png",
+      "offset": "300"
     },
     {
       "date": "2026-8-31",
