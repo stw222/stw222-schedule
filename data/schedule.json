@@ -2235,6 +2235,15 @@
       "description": "I'll staff Memphis center or BNA / MEM approach, whatever is available",
       "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-6",
+      "title": "Summer on the Lake",
+      "category": "flying",
+      "startTime": "14:45",
+      "description": "Route: KUGN > KMKG > KENW\nhttps://www.vatusa.net/events/12541",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KXJ8QC1YQD2A6PQ3YTFNS2FY.png",
+      "offset": "240"
     }
   ],
   "categories": {
