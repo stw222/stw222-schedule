@@ -2217,6 +2217,15 @@
       "description": "TBD",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-4",
+      "title": "Back to school",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route: TBD\nhttps://www.vatusa.net/events/12538",
+      "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zla/b725ef5a3928ed2a7811b25326cfbc48.png",
+      "offset": "300"
     }
   ],
   "categories": {
