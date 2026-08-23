@@ -2226,6 +2226,15 @@
       "description": "Route: TBD\nhttps://www.vatusa.net/events/12538",
       "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zla/b725ef5a3928ed2a7811b25326cfbc48.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-5",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I'll staff Memphis center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
