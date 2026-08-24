@@ -2211,10 +2211,10 @@
     },
     {
       "date": "2026-9-3",
-      "title": "TBD",
+      "title": "Training Noah to fly in the sim",
       "category": "flying",
       "startTime": "19:00",
-      "description": "TBD",
+      "description": "Ive been using FSCopilot to train Indy controller, Noah, how to fly in the sim. So far, we've flown a bit VFR in the C152 without GPS. We'll work on autopilot management and more VFR navigation in the Cessna 172 Skyhawk.",
       "image": "",
       "offset": "300"
     },
