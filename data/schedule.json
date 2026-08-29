@@ -2178,7 +2178,7 @@
       "date": "2026-8-30",
       "title": "HCF Center",
       "category": "flying",
-      "startTime": "14:00",
+      "startTime": "19:30",
       "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available.",
       "image": "https://i.imgur.com/1Zk77Q1.png",
       "offset": "300"
@@ -2253,6 +2253,15 @@
       "startTime": "18:55",
       "description": "KC is hosting a Labor Day event: https://www.vatusa.net/events/48",
       "image": "https://i.imgur.com/VyS3j6L.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-9-8",
+      "title": "No stream - student training",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream - ATC training",
+      "image": "",
       "offset": "300"
     }
   ],
