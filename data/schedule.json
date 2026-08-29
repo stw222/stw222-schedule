@@ -2194,11 +2194,12 @@
     },
     {
       "date": "2026-9-1",
-      "title": "Anchorage Center",
-      "category": "atc",
+      "title": "No stream - student training",
+      "category": "no stream",
       "startTime": "19:00",
-      "description": "Sunday on Anchorage Center",
-      "image": ""
+      "description": "No stream - ATC training",
+      "image": "",
+      "offset": "300"
     },
     {
       "date": "2026-9-2",
