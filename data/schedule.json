@@ -2281,6 +2281,15 @@
       "description": "Thursday on Anchorage Center",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-11",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
