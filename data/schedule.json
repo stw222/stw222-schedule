@@ -2299,6 +2299,15 @@
       "description": "Route: TBD",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-13",
+      "title": "Indy Center - GA Appreciation Day",
+      "category": "atc",
+      "startTime": "18:00",
+      "description": "GA Day featuring KSDF, KLOU, KLEX & Others",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KXC8D5B4DXCB206NP0J5EDNQ.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
