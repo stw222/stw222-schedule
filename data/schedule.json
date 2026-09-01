@@ -2308,6 +2308,15 @@
       "description": "GA Day featuring KSDF, KLOU, KLEX & Others\nhttps://www.vatusa.net/events/12539\nhttps://flyindycenter.com/events/34565cef-be08-45f5-8a50-0818ace4a31f",
       "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KXC8D5B4DXCB206NP0J5EDNQ.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-14",
+      "title": "Palworld",
+      "category": "palworld",
+      "startTime": "19:00",
+      "description": "Were playing palworld again!",
+      "image": "https://palworld.wiki.gg/images/thumb/Palworld_KeyVisual_1080p_Loco_C.png/400px-Palworld_KeyVisual_1080p_Loco_C.png?958c2d",
+      "offset": "360"
     }
   ],
   "categories": {
