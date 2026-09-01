@@ -2290,6 +2290,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-12",
+      "title": "Southwest VA Flights",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route: TBD",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
