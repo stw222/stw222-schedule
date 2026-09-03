@@ -2335,6 +2335,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-17",
+      "title": "Indy Center: Fly-In Thursday: Dayton",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nhttps://flyindycenter.com/events/71f818f2-ccd4-406f-8173-a591c92829fe\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-17sep2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png",
+      "offset": "300"
     }
   ],
   "categories": {
