@@ -2344,6 +2344,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nhttps://flyindycenter.com/events/71f818f2-ccd4-406f-8173-a591c92829fe\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-17sep2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/1644419598863-KJ984RE70FCFPDOHJJQH/SBR_FIT_3.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-18",
+      "title": "New York Rush Hour FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "Route: TBD\nhttps://www.vatusa.net/events/12551",
+      "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zny/1afd670048fcd8b16316ff523ba8f93c.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
