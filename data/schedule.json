@@ -2362,6 +2362,15 @@
       "description": "Route: ??? > CLL > ???\nhttps://www.vatusa.net/events/12553",
       "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zhu/65f73b1df2f343e734e3c6cdcc1cb10b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-20",
+      "title": "Indy Center: The O'hare Special",
+      "category": "atc",
+      "startTime": "18:50",
+      "description": "ZAU is staffing up Chicago O'Hare\nhttps://www.vatusa.net/events/12557",
+      "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zau/cfc744267dac2202f5b2ae76db39983c.png",
+      "offset": "300"
     }
   ],
   "categories": {
