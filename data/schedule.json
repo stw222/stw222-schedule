@@ -2407,6 +2407,15 @@
       "description": "TBD",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-25",
+      "title": "Indy Center - September Standoff (KCVG)",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Fly to or from MEM or CVG. This event is a cargo crossfire.\nhttps://www.vatusa.net/events/16\nhttps://flyindycenter.com/events/63de5915-7f37-4488-bf82-d6c05d96e413\nhttps://memphisartcc.com/events/019f6e81-b726-7370-919f-d451b806bc2e",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
