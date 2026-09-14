@@ -2425,6 +2425,15 @@
       "description": "BIRK > BITM > BIND > BIGS > BIHI > BIRK\n Not on Vatsim for this one\nhttps://www.thepilotclub.org/blog/tpc-explorer-flight-missions-sep2026",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-27",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "18:00",
+      "description": "Event featuring DC\nhttps://flyindycenter.com/events/20f53c72-c0cf-4bc6-84f8-e1106a17574e",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KZKMTGD9PHFCC7RHVNBAMG33.png",
+      "offset": "300"
     }
   ],
   "categories": {
