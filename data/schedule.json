@@ -2470,6 +2470,51 @@
       "description": "VFR or IFR flying between MSN, RFD, & MKE",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-2",
+      "title": "No stream",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-3",
+      "title": "No stream",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-4",
+      "title": "No stream",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-5",
+      "title": "No stream",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-6",
+      "title": "No stream",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
