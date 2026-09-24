@@ -2443,6 +2443,15 @@
       "description": "This modpack is based on Create+ with a lot of our own spin on it.",
       "image": "",
       "offset": "360"
+    },
+    {
+      "date": "2026-9-29",
+      "title": "No stream - student training",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "No stream - ATC training",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
