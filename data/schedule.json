@@ -2434,6 +2434,15 @@
       "description": "Event featuring DC\nhttps://flyindycenter.com/events/20f53c72-c0cf-4bc6-84f8-e1106a17574e",
       "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01KZKMTGD9PHFCC7RHVNBAMG33.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-9-28",
+      "title": "Minecraft Monday: The Boys Create",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "This modpack is based on Create+ with a lot of our own spin on it.",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
