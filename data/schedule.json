@@ -2461,6 +2461,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-1",
+      "title": "Midwest TRACON Tour - flying",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "VFR or IFR flying between MSN, RFD, & MKE",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
