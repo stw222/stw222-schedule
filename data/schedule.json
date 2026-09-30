@@ -2551,6 +2551,15 @@
       "description": "Welcome to Hawaii!\nhttps://www.vatusa.net/events/12544\ninfo: https://vhcf.net/oceanic",
       "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/hcf/ea76dd3af911c8e189ff29e8d0eb93b4.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Indy Center - Keenland's last call",
+      "category": "atc",
+      "startTime": "11:00",
+      "description": "Featuring 2 shifts of controllers at KLEX\nhttps://flyindycenter.com/events/71c33944-064a-4120-811d-e0e817c4eccc\nCome fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/QhgSDSc.png",
+      "offset": "240"
     }
   ],
   "categories": {
