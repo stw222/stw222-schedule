@@ -2560,6 +2560,15 @@
       "description": "Featuring 2 shifts of controllers at KLEX\nhttps://flyindycenter.com/events/71c33944-064a-4120-811d-e0e817c4eccc\nCome fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/QhgSDSc.png",
       "offset": "240"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Minecraft Monday: The Boys Create",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "This modpack is based on Create+ with a lot of our own spin on it.",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
