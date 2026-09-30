@@ -2524,6 +2524,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-8",
+      "title": "Midwest TRACON Tour - flying",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "VFR or IFR flying between MSY, BTR, LFT",
+      "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zhu/0836b84577a9180edb7550c99ef6a191.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
