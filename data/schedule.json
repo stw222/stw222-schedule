@@ -2542,6 +2542,15 @@
       "description": "Flying into KMCO\nhttps://www.vatusa.net/events/12566\nhttps://www.thepilotclub.org/dispatch/fno-9oct2026",
       "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zjx/29e98c41b46a499800a26c56c50d5eae.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "HCF Center -Oceanic Explorers",
+      "category": "atc",
+      "startTime": "16:00",
+      "description": "Welcome to Hawaii!\nhttps://www.vatusa.net/events/12544\ninfo: https://vhcf.net/oceanic",
+      "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/hcf/ea76dd3af911c8e189ff29e8d0eb93b4.png",
+      "offset": "300"
     }
   ],
   "categories": {
