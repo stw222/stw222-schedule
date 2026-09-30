@@ -2569,6 +2569,24 @@
       "description": "This modpack is based on Create+ with a lot of our own spin on it.",
       "image": "",
       "offset": "360"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:30",
+      "description": "Tuesday on Anchorage Center",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
