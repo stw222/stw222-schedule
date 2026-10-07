@@ -2593,7 +2593,16 @@
       "title": "Pilot Club Explorer: The Wild West",
       "category": "flying",
       "startTime": "19:00",
-      "description": "KABR > KRAP > KJAC > KMTJ > KCEZ > KCNY",
+      "description": "KABR > KRAP > KJAC > KMTJ > KCEZ > KCNY\nhttps://www.thepilotclub.org/blog/tpc-explorer-flight-missions-oct2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/c4ba7df3-3e6b-4ce4-9558-bcc9ac5fcd8b/explorer_16x9_new_design_v2.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "FNOklahoma",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12564",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/c4ba7df3-3e6b-4ce4-9558-bcc9ac5fcd8b/explorer_16x9_new_design_v2.png",
       "offset": "300"
     }
