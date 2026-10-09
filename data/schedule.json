@@ -2539,7 +2539,7 @@
       "title": "Halloween Horror Ops",
       "category": "flying",
       "startTime": "19:00",
-      "description": "Flying into KMCO\nhttps://www.vatusa.net/events/12566\nhttps://www.thepilotclub.org/dispatch/fno-9oct2026",
+      "description": "KRDU > KMCO > KFLL\nhttps://www.vatusa.net/events/12566\nhttps://www.thepilotclub.org/dispatch/fno-9oct2026",
       "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zjx/29e98c41b46a499800a26c56c50d5eae.png",
       "offset": "300"
     },
@@ -2614,6 +2614,15 @@
       "description": "Staffing the north half of Indy Center\nhttps://www.vatusa.net/events/12554",
       "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zdc/2a11b988ac945ffe6679fbb9d0233365.webp",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Sunday Funday",
+      "category": "flying",
+      "startTime": "14:30",
+      "description": "KDFW > KABQ\nhttps://www.thepilotclub.org/dispatch/sunday-funday-18oct2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/2320b1d4-d6e7-4424-8f9c-0d85d04eddce/SF_16x9_TCPGP.png",
+      "offset": "240"
     }
   ],
   "categories": {
