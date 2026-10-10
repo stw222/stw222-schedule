@@ -2599,11 +2599,11 @@
     },
     {
       "date": "2026-10-16",
-      "title": "FNOklahoma",
-      "category": "flying",
+      "title": "Indy Center",
+      "category": "atc",
       "startTime": "19:00",
-      "description": "https://www.vatusa.net/events/12564",
-      "image": "https://vatusa-events.sfo3.cdn.digitaloceanspaces.com/event-banners/zfw/0eeca74c8c03ebd3ee004f4df4bec6e4.png",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
     },
     {
