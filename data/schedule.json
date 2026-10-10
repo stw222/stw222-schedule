@@ -2635,11 +2635,11 @@
     },
     {
       "date": "2026-10-20",
-      "title": "Anchorage Center",
+      "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
-      "description": "Tuesday on Anchorage Center",
-      "image": "",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
     },
     {
