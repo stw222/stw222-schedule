@@ -2635,6 +2635,15 @@
     },
     {
       "date": "2026-10-20",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-10-21",
       "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
@@ -2643,7 +2652,7 @@
       "offset": "300"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "title": "Indy Center",
       "category": "atc",
       "startTime": "19:00",
