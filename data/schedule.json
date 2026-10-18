@@ -2659,6 +2659,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "title": "The Pan American Express - flying around Florida",
+      "date": "2026-10-23",
+      "category": "flying",
+      "startTime": "14:30",
+      "description": "Airports TBD",
+      "image": "https://gcdnb.pbrd.co/images/gm4B8ylKEW5t.png",
+      "offset": "180"
     }
   ],
   "categories": {
