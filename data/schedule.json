@@ -2667,7 +2667,7 @@
       "startTime": "19:00",
       "description": "Airports TBD",
       "image": "https://gcdnb.pbrd.co/images/gm4B8ylKEW5t.png",
-      "offset": "180"
+      "offset": "300"
     },
     {
       "date": "2026-10-24",
@@ -2676,6 +2676,15 @@
       "startTime": "19:00",
       "description": "Indy center is staffing for Chicago's live event\nhttps://flyindycenter.com/events/a33ba1c5-3e73-44e2-83e6-5a1115abbae2\nhttps://www.vatusa.net/events/12570",
       "image": "https://cdn.vatusa.net/event-banners/zau/95d81b6ead62a2d4dc676815e966689b.png",
+      "offset": "300"
+    },
+    {
+      "title": "Trick or Bay - flying into SFO?",
+      "date": "2026-10-25",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12568",
+      "image": "https://cdn.vatusa.net/event-banners/zoa/2548d41352a0371f101a8305183deacd.png",
       "offset": "300"
     }
   ],
