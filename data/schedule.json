@@ -2713,6 +2713,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Indy Center - Flight of the living dead",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Featuring KPIT\nhttps://flyindycenter.com/events/3c3c9346-23d6-4949-a857-7bfed2b642d4",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
