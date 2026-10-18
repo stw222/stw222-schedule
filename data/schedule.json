@@ -2664,10 +2664,19 @@
       "title": "The Pan American Express - flying around Florida",
       "date": "2026-10-23",
       "category": "flying",
-      "startTime": "14:30",
+      "startTime": "19:00",
       "description": "Airports TBD",
       "image": "https://gcdnb.pbrd.co/images/gm4B8ylKEW5t.png",
       "offset": "180"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Indy center is staffing for Chicago's live event\nhttps://flyindycenter.com/events/a33ba1c5-3e73-44e2-83e6-5a1115abbae2\nhttps://www.vatusa.net/events/12570",
+      "image": "https://cdn.vatusa.net/event-banners/zau/95d81b6ead62a2d4dc676815e966689b.png",
+      "offset": "300"
     }
   ],
   "categories": {
