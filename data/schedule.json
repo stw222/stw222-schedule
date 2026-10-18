@@ -2686,6 +2686,15 @@
       "description": "https://www.vatusa.net/events/12568",
       "image": "https://cdn.vatusa.net/event-banners/zoa/2548d41352a0371f101a8305183deacd.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Minecraft Monday: The Boys Create",
+      "category": "minecraft",
+      "startTime": "19:00",
+      "description": "This modpack is based on Create+ with a lot of our own spin on it.",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
