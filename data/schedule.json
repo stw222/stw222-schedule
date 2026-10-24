@@ -2733,12 +2733,21 @@
       "offset": "300"
     },
     {
-      "date": "2026-9-31",
+      "date": "2026-10-31",
       "title": "HCF Center",
       "category": "flying",
       "startTime": "19:00",
       "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available.",
       "image": "https://i.imgur.com/1Zk77Q1.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-11-1",
+      "title": "Memphis Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I'll staff Memphis center or BNA / MEM approach, whatever is available",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
       "offset": "300"
     }
   ],
