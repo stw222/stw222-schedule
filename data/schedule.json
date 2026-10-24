@@ -2722,6 +2722,15 @@
       "description": "Featuring KPIT\nhttps://flyindycenter.com/events/3c3c9346-23d6-4949-a857-7bfed2b642d4",
       "image": "https://clevelandcenter.org/assets/banners/flight-of-the-living-dead-vi.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Nightmare on Colfax",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12581",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
