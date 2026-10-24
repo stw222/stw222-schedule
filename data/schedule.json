@@ -2731,6 +2731,15 @@
       "description": "https://www.vatusa.net/events/12581",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "tbd",
+      "category": "TBD",
+      "startTime": "19:00",
+      "description": "",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
