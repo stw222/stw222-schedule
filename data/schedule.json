@@ -158,7 +158,7 @@
     {
       "date": "2026-1-11",
       "title": "No stream",
-      "category": "other",
+      "category": "no stream",
       "startTime": "14:00",
       "description": "No stream",
       "image": ""
@@ -310,7 +310,7 @@
     {
       "date": "2026-1-30",
       "title": "Indy Center - Northeast Corridor FNO",
-      "category": "Atc",
+      "category": "atc",
       "startTime": "18:50",
       "description": "https://forums.vatusa.net/index.php?topic=12318.0\nhttps://flyindycenter.com/events/6ccd7ae9-9fb6-47d8-a696-e7789faa9393",
       "image": "https://atchub.bvartcc.com/eventheaders/17e48fa6e7325bdc8f3aed746140ee25.png"
@@ -318,7 +318,7 @@
     {
       "date": "2026-1-31",
       "title": "Anchorage Center - Vintage Cross the Inside Passage",
-      "category": "Atc",
+      "category": "atc",
       "startTime": "08:00",
       "description": "12 or more pilots are flying PANC to KSEA with classic aircraft.\nhttps://zanartcc.org/events/58\nhttps://docs.google.com/document/d/1VDanw9YUeMy8htpF3T8j7NK6Gt2mpJyDKq7xGrc07r8/edit?usp=sharing\nThere are several participants that are streaming their perspective:\n(host) https://www.twitch.tv/slantalphaadventures\nhttps://www.twitch.tv/melvinleroy\nhttps://www.twitch.tv/jefforyb",
       "image": "https://pbs.twimg.com/media/G5LnCP0XcAANyU6?format=jpg&name=large"
@@ -398,7 +398,7 @@
     {
       "date": "2026-2-10",
       "title": "No stream - ATC training",
-      "category": "other",
+      "category": "no stream",
       "startTime": "19:00",
       "description": "Im training a student tonight. No stream.",
       "image": ""
@@ -2042,7 +2042,7 @@
     {
       "date": "2026-8-15",
       "title": "HCF Center",
-      "category": "flying",
+      "category": "atc",
       "startTime": "19:00",
       "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available\nI would have done ZNY live, but there is a family members birthday today",
       "image": "https://i.imgur.com/1Zk77Q1.png",
@@ -2177,7 +2177,7 @@
     {
       "date": "2026-8-30",
       "title": "HCF Center",
-      "category": "flying",
+      "category": "atc",
       "startTime": "19:30",
       "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available.",
       "image": "https://i.imgur.com/1Zk77Q1.png",
@@ -2294,7 +2294,7 @@
     {
       "date": "2026-9-12",
       "title": "HCF Center",
-      "category": "flying",
+      "category": "atc",
       "startTime": "19:00",
       "description": "Welcome to Hawaii!\nI'll staff HCF Center, HCF approach, or whatever position is available.",
       "image": "https://i.imgur.com/1Zk77Q1.png",
