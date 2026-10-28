@@ -2846,6 +2846,10 @@
     "palworld": {
       "color": "#00b894",
       "icon": "sphere"
+    },
+    "division2": {
+      "color": "#fd6900",
+      "icon": "pistol"
     }
   }
 }
