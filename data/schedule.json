@@ -2767,6 +2767,15 @@
       "description": "This modpack is based on Create+ with a lot of our own spin on it.",
       "image": "",
       "offset": "360"
+    },
+    {
+      "date": "2026-11-3",
+      "title": "Northern lights Tuesday",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "PAJN > CYZF > ???\nhttps://my.vatsim.net/events/northern-lights-tuesday-99",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01M55PXDEZM0FD3AC8HXC4PJAA.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
