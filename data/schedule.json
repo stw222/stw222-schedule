@@ -2794,6 +2794,15 @@
       "description": "I'll staff Memphis center or BNA / MEM approach, whatever is available",
       "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-6",
+      "title": "The California Zephyr FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "KGJT > KSLC > KRNO > KSMF\nhttps://www.vatusa.net/events/12584",
+      "image": "https://cdn.vatusa.net/event-banners/zoa/c0d526acc3307eb53800a537eba1fcd5.png",
+      "offset": "300"
     }
   ],
   "categories": {
