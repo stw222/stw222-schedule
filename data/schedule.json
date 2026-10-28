@@ -2797,11 +2797,20 @@
     },
     {
       "date": "2026-11-6",
-      "title": "The California Zephyr FNO",
+      "title": "The California Zephyr FNO ",
       "category": "flying",
       "startTime": "19:00",
       "description": "KGJT > KSLC > KRNO > KSMF\nhttps://www.vatusa.net/events/12584",
       "image": "https://cdn.vatusa.net/event-banners/zoa/c0d526acc3307eb53800a537eba1fcd5.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-11-7",
+      "title": "Indy Center - Never Dull at Dulles",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12565\nhttps://flyindycenter.com/events/48b17a0a-8cd7-49f9-a89b-5721394aca56",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01M2BSYHM8Z81KBS4NPGHYM5KG.png",
       "offset": "300"
     }
   ],
