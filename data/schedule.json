@@ -2776,6 +2776,15 @@
       "description": "PAJN > CYZF > ???\nhttps://my.vatsim.net/events/northern-lights-tuesday-99",
       "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01M55PXDEZM0FD3AC8HXC4PJAA.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-4",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
