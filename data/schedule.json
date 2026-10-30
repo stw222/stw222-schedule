@@ -2812,6 +2812,15 @@
       "description": "https://www.vatusa.net/events/12565\nhttps://flyindycenter.com/events/48b17a0a-8cd7-49f9-a89b-5721394aca56",
       "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/01M2BSYHM8Z81KBS4NPGHYM5KG.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-8",
+      "title": "TBD",
+      "category": "TBD",
+      "startTime": "19:00",
+      "description": "",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
