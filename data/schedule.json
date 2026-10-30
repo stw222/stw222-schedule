@@ -2857,6 +2857,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://www.vatusa.net/events/12571",
       "image": "https://cdn.vatusa.net/event-banners/zau/dd5c61d388c086a45a8cad155db5d40f.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Indy Center - Plane Train FNO",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12583",
+      "image": "https://cdn.vatusa.net/event-banners/ztl/e70d33afc21b5c90ad6fe289fb4713bf.png",
+      "offset": "300"
     }
   ],
   "categories": {
