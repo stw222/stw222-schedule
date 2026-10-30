@@ -2846,7 +2846,16 @@
       "category": "atc",
       "startTime": "19:00",
       "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://www.vatusa.net/events/12574",
-      "image": "https://i.imgur.com/KcZGWSV.png",
+      "image": "https://cdn.vatusa.net/event-banners/zdc/fc47baaa5d8f03cde4c74fb1e1570e7f.png",
+      "offset": "300"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nNearby event: https://www.vatusa.net/events/12571",
+      "image": "https://cdn.vatusa.net/event-banners/zau/dd5c61d388c086a45a8cad155db5d40f.png",
       "offset": "300"
     }
   ],
