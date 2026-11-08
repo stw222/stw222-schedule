@@ -2902,6 +2902,15 @@
       "description": "Tuesday on Anchorage Center",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Indy Center - Over the Mountains",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12579\nhttps://flyindycenter.com/events/19e3c96f-050e-465c-b28d-6d0c5cdbff1f",
+      "image": "https://cdn.vatusa.net/event-banners/zid/b07d1725e7f2aba2766108f3d6c1570d.png",
+      "offset": "300"
     }
   ],
   "categories": {
