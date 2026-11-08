@@ -2893,6 +2893,15 @@
       "description": "This game is actually kinda cool",
       "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fthe-division-2-rescue-team-ksvwkrsdg1v5pg4w.jpg&f=1&nofb=1&ipt=54b778565218a47d6b6a9909da5c4687b88de1ec26f38cf9969c978340d130e9&ipo=images",
       "offset": "360"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Anchorage Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Tuesday on Anchorage Center",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
