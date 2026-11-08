@@ -2911,6 +2911,15 @@
       "description": "https://www.vatusa.net/events/12579\nhttps://flyindycenter.com/events/19e3c96f-050e-465c-b28d-6d0c5cdbff1f",
       "image": "https://cdn.vatusa.net/event-banners/zid/b07d1725e7f2aba2766108f3d6c1570d.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Mexico event + fly-in Thursday",
+      "category": "flying",
+      "startTime": "15:30",
+      "description": "KAUS > MMMY > KSAT\nFly-In Thursday with TPC to KSAT\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-19nov2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/0c26ee3f-6876-4edc-bc81-95e6c4ce244e/FIT_19nov2026.jpg",
+      "offset": "300"
     }
   ],
   "categories": {
