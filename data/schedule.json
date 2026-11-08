@@ -2884,6 +2884,15 @@
       "description": "KGJT > KSLC > KRNO > KSMF\nhttps://www.vatusa.net/events/12563 \nhttps://www.thepilotclub.org/dispatch/sunday-funday-15nov2026",
       "image": "https://cdn.vatusa.net/event-banners/zma/6968abfab96a01bce3771fc457677845.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Game: The Division 2",
+      "category": "division2",
+      "startTime": "19:00",
+      "description": "This game is actually kinda cool",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fthe-division-2-rescue-team-ksvwkrsdg1v5pg4w.jpg&f=1&nofb=1&ipt=54b778565218a47d6b6a9909da5c4687b88de1ec26f38cf9969c978340d130e9&ipo=images",
+      "offset": "360"
     }
   ],
   "categories": {
