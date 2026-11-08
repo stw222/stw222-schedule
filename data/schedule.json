@@ -2875,6 +2875,15 @@
       "description": "https://www.vatusa.net/events/12578",
       "image": "https://cdn.vatusa.net/event-banners/zob/df4ac269458c9ac292865d3e52bc441b.webp",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Welcome to Vice City",
+      "category": "flying",
+      "startTime": "15:30",
+      "description": "KGJT > KSLC > KRNO > KSMF\nhttps://www.vatusa.net/events/12563 \nhttps://www.thepilotclub.org/dispatch/sunday-funday-15nov2026",
+      "image": "https://cdn.vatusa.net/event-banners/zma/6968abfab96a01bce3771fc457677845.png",
+      "offset": "300"
     }
   ],
   "categories": {
