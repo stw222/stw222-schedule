@@ -2920,6 +2920,15 @@
       "description": "KAUS > MMMY > KSAT\nFly-In Thursday with TPC to KSAT\nhttps://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-19nov2026",
       "image": "https://images.squarespace-cdn.com/content/v1/614689d3918044012d2ac1b4/0c26ee3f-6876-4edc-bc81-95e6c4ce244e/FIT_19nov2026.jpg",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Stuff the AlbuTurkey FNO",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "??? > ???\nhttps://www.vatusa.net/events/12589",
+      "image": "https://cdn.vatusa.net/event-banners/zab/9c85cce4fe888704c642dd75a46273c0.png",
+      "offset": "300"
     }
   ],
   "categories": {
