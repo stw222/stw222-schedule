@@ -2929,6 +2929,24 @@
       "description": "??? > ???\nhttps://www.vatusa.net/events/12589",
       "image": "https://cdn.vatusa.net/event-banners/zab/9c85cce4fe888704c642dd75a46273c0.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Saturday",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "??? > ???",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Sunday Service",
+      "category": "flying",
+      "startTime": "14:00",
+      "description": "MUHA > KTPA\nhttps://my.vatsim.net/events/havana-sunday-service-265",
+      "image": "https://vatsim-my.nyc3.digitaloceanspaces.com/events/3zkpbUipKGJ7ueYPi2aS1HzvaCK7cYkPVB1EiQ3Y.png",
+      "offset": "300"
     }
   ],
   "categories": {
