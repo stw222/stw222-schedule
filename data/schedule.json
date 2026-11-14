@@ -2933,10 +2933,10 @@
     {
       "date": "2026-11-21",
       "title": "Saturday",
-      "category": "flying",
+      "category": "atc",
       "startTime": "19:00",
-      "description": "??? > ???",
-      "image": "",
+      "description": "Memphis Center",
+      "image": "https://live.staticflickr.com/65535/55226224414_a933ca3b7e_b.jpg",
       "offset": "300"
     },
     {
