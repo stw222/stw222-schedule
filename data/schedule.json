@@ -3001,6 +3001,15 @@
       "description": "https://www.vatusa.net/events/12585",
       "image": "https://cdn.vatusa.net/event-banners/zbw/26d0f2e8414d7fe6656024b9ddb683c7.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Indy Center",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "Come fly into, out of, or over the top of Indy Center!\nEvent to our south: https://www.vatusa.net/events/12591",
+      "image": "https://i.imgur.com/KcZGWSV.png",
+      "offset": "300"
     }
   ],
   "categories": {
