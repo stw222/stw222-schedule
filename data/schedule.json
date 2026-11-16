@@ -2992,6 +2992,15 @@
       "description": "",
       "image": "",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Flying around Boston",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "https://www.vatusa.net/events/12585",
+      "image": "https://cdn.vatusa.net/event-banners/zbw/26d0f2e8414d7fe6656024b9ddb683c7.png",
+      "offset": "300"
     }
   ],
   "categories": {
