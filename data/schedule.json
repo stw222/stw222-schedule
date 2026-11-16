@@ -2974,6 +2974,24 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "TBD - Thanksgiving",
+      "category": "tbd",
+      "startTime": "19:00",
+      "description": "",
+      "image": "",
+      "offset": "300"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "no stream",
+      "category": "no stream",
+      "startTime": "19:00",
+      "description": "",
+      "image": "",
+      "offset": "300"
     }
   ],
   "categories": {
