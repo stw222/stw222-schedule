@@ -3046,6 +3046,15 @@
       "description": "??? > KEUG > ???\nhttps://www.vatusa.net/events/12597",
       "image": "",
       "offset": "360"
+    },
+    {
+      "date": "2026-12-4",
+      "title": "Indy Center - Capital Christmas",
+      "category": "atc",
+      "startTime": "19:00",
+      "description": "I reccomend you DO NOT fly to DCA. IAD and BWI are perfect though\nhttps://www.vatusa.net/events/12582\nhttps://flyindycenter.com/events/5708463b-76b6-4c61-941f-1a9bc3dab4e1",
+      "image": "https://cdn.vatusa.net/event-banners/zdc/12238c002b2e883970d57275eb6c82bd.png",
+      "offset": "300"
     }
   ],
   "categories": {
