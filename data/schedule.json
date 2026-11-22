@@ -3037,6 +3037,15 @@
       "description": "Come fly into, out of, or over the top of Indy Center!",
       "image": "https://i.imgur.com/KcZGWSV.png",
       "offset": "300"
+    },
+    {
+      "date": "2026-12-3",
+      "title": "flying to Eugene",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "??? > KEUG > ???\nhttps://www.vatusa.net/events/12597",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
