@@ -3064,6 +3064,15 @@
       "description": "TBD",
       "image": "",
       "offset": "360"
+    },
+    {
+      "date": "2026-12-6",
+      "title": "SWA flights to/from MSY",
+      "category": "flying",
+      "startTime": "19:00",
+      "description": "??? > KMSY > ???\nhttps://www.vatusa.net/events/12602",
+      "image": "",
+      "offset": "360"
     }
   ],
   "categories": {
